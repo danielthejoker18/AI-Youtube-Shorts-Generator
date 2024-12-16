@@ -1,0 +1,153 @@
+{
+  "text": " Quando o universo não quer, não bata de frente Nem sempre o que a gente quer, é o melhor pra gente Um tênis recuso que já se abre em si fechando Amores que duram a vida e outros nem um ano Tem gente que vive junto, só adiando E tem a gente que se separou, saindo Um gêno que a valor fica com Deus, querendo ficar Quem nunca falou, a você cuida, querendo coirar a amor Quem nunca falou, sombra aqui doido pra segurar Quem nunca falou, acabou, se acabou de chorar Quando o universo não quer, não bata de frente Nem sempre o que a gente quer, é o melhor pra gente Uma no bate de olhos e senhores, uma deus e caralho Uma no bate de rar, uma deus e caralho Mais barulho Quando o universo não quer, não bata de frente Nem sempre o que a gente quer, é o melhor pra gente Tênis recuso que já se abre em si fechando Amores que duram a vida e outros nem um ano Tem gente que vive junto, só adiando E tem a gente que se separou, saindo Um gêno que a valor fica com Deus, querendo ficar Quem nunca falou, a você cuida, querendo coirar a amor Quem nunca falou, sombra aqui doido pra segurar Quem nunca falou, acabou, se acabou de chorar Quando o universo não quer, não bata de frente Nem sempre o que a gente quer, é o melhor pra gente Tênis recuso que já se abre em si fechando É o melhor pra gente que vive junto, só adiando",
+  "segments": [
+    {
+      "text": " Quando o universo não quer, não bata de frente",
+      "start": 0.0,
+      "end": 20.0
+    },
+    {
+      "text": " Nem sempre o que a gente quer, é o melhor pra gente",
+      "start": 20.0,
+      "end": 27.0
+    },
+    {
+      "text": " Um tênis recuso que já se abre em si fechando",
+      "start": 28.0,
+      "end": 32.0
+    },
+    {
+      "text": " Amores que duram a vida e outros nem um ano",
+      "start": 32.0,
+      "end": 35.0
+    },
+    {
+      "text": " Tem gente que vive junto, só adiando",
+      "start": 35.0,
+      "end": 39.0
+    },
+    {
+      "text": " E tem a gente que se separou, saindo",
+      "start": 39.0,
+      "end": 43.0
+    },
+    {
+      "text": " Um gêno que a valor fica com Deus, querendo ficar",
+      "start": 43.0,
+      "end": 50.0
+    },
+    {
+      "text": " Quem nunca falou, a você cuida, querendo coirar a amor",
+      "start": 50.0,
+      "end": 57.0
+    },
+    {
+      "text": " Quem nunca falou, sombra aqui doido pra segurar",
+      "start": 57.0,
+      "end": 64.0
+    },
+    {
+      "text": " Quem nunca falou, acabou, se acabou de chorar",
+      "start": 64.0,
+      "end": 73.0
+    },
+    {
+      "text": " Quando o universo não quer, não bata de frente",
+      "start": 73.0,
+      "end": 80.0
+    },
+    {
+      "text": " Nem sempre o que a gente quer, é o melhor pra gente",
+      "start": 80.0,
+      "end": 85.0
+    },
+    {
+      "text": " Uma no bate de olhos e senhores, uma deus e caralho",
+      "start": 85.0,
+      "end": 91.0
+    },
+    {
+      "text": " Uma no bate de rar, uma deus e caralho",
+      "start": 91.0,
+      "end": 94.0
+    },
+    {
+      "text": " Mais barulho",
+      "start": 94.0,
+      "end": 96.0
+    },
+    {
+      "text": " Quando o universo não quer, não bata de frente",
+      "start": 96.0,
+      "end": 100.0
+    },
+    {
+      "text": " Nem sempre o que a gente quer, é o melhor pra gente",
+      "start": 100.0,
+      "end": 106.0
+    },
+    {
+      "text": " Tênis recuso que já se abre em si fechando",
+      "start": 106.0,
+      "end": 110.0
+    },
+    {
+      "text": " Amores que duram a vida e outros nem um ano",
+      "start": 110.0,
+      "end": 113.0
+    },
+    {
+      "text": " Tem gente que vive junto, só adiando",
+      "start": 113.0,
+      "end": 116.0
+    },
+    {
+      "text": " E tem a gente que se separou, saindo",
+      "start": 116.0,
+      "end": 119.0
+    },
+    {
+      "text": " Um gêno que a valor fica com Deus, querendo ficar",
+      "start": 119.0,
+      "end": 126.0
+    },
+    {
+      "text": " Quem nunca falou, a você cuida, querendo coirar a amor",
+      "start": 126.0,
+      "end": 132.0
+    },
+    {
+      "text": " Quem nunca falou, sombra aqui doido pra segurar",
+      "start": 132.0,
+      "end": 138.0
+    },
+    {
+      "text": " Quem nunca falou, acabou, se acabou de chorar",
+      "start": 138.0,
+      "end": 145.0
+    },
+    {
+      "text": " Quando o universo não quer, não bata de frente",
+      "start": 145.0,
+      "end": 150.0
+    },
+    {
+      "text": " Nem sempre o que a gente quer, é o melhor pra gente",
+      "start": 150.0,
+      "end": 155.0
+    },
+    {
+      "text": " Tênis recuso que já se abre em si fechando",
+      "start": 155.0,
+      "end": 161.0
+    },
+    {
+      "text": " É o melhor pra gente que vive junto, só adiando",
+      "start": 161.0,
+      "end": 170.0
+    }
+  ],
+  "source": "whisper",
+  "language": "pt",
+  "cached_at": "2024-12-15T18:30:04.468925"
+}

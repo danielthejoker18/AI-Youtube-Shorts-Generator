@@ -1,0 +1,286 @@
+2024-12-15 23:12:10 | INFO     | Components.highlight_detector:184 | Processing 4 chunks of segments
+2024-12-15 23:12:10 | INFO     | Components.highlight_detector:189 | Processing chunk 1/4
+2024-12-15 23:12:10 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:12:10 | DEBUG    | Components.highlight_detector:52 | Segments text: [0.0s - 1.0s]  Thank you.
+[1.0s - 2.0s]  Thank you.
+[2.0s - 3.0s]  Thanks, Scott.
+[3.0s - 4.0s]  Thank you.
+[30.0s - 32.0s]  Thank you.
+[60.0s - 62.0s]  Thank you.
+[91.0s - 92.0s]  Thank you.
+[92.0s - 93.0s]  Thank you.
+[93.0s - 94.0s]  Thank you.
+[94.0s - 95.0s]  Thank you.
+[95.0s - 96.0s]  Thank you.
+[96.0s - 97.0s]  Thank you.
+[97.0s - 98.0s]  Thank you.
+[98.0s - 99.0s]  Thank you.
+[99.0s - 100.0s]  Thank you.
+[100.0s - 101.0s]  Thank you.
+[101.0s - 102.0s]  Thank you.
+[102.0s - 103.0s]  Than...
+2024-12-15 23:12:10 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:12:11 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {
+            "start": 30.0,
+            "end": 32.0,
+            "text": "Thank you."
+        },
+        {
+            "start": 60.0,
+            "end": 62.0,
+            "text": "Thank you."
+        },
+        {
+            "start": 91.0,
+            "end": 100.0,
+            "text": "Consecutive thanks (10x)"
+        },
+        {
+            "start": 101.0,
+            "end": 115.0,
+            "text": "Consecutive thanks (15x)"
+        }
+    ]
+}
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:147 | Found 4 valid highlights
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:189 | Processing chunk 2/4
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:12:11 | DEBUG    | Components.highlight_detector:52 | Segments text: [115.0s - 116.0s]  Thank you.
+[116.0s - 117.0s]  Thank you.
+[117.0s - 118.0s]  Thank you.
+[118.0s - 119.0s]  Thank you.
+[119.0s - 120.0s]  Thank you.
+[120.0s - 121.0s]  Thank you.
+[121.0s - 122.0s]  Thank you.
+[122.0s - 123.0s]  Thank you.
+[123.0s - 124.0s]  Thank you.
+[124.0s - 125.0s]  Thank you.
+[125.0s - 126.0s]  Thank you.
+[126.0s - 127.0s]  Thank you.
+[127.0s - 128.0s]  Thank you.
+[128.0s - 129.0s]  Thank you.
+[129.0s - 130.0s]  Thank you.
+[130.0s - 131.0s]  Thank you.
+[131.0s - 132.0s]  T...
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:12:11 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {
+            "start": 115.0,
+            "end": 130.0,
+            "text": "Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you."
+        },
+        {
+            "start": 130.0,
+            "end": 145.0,
+            "text": "Thank you. Thank you. Thank you. Thank you. Thank you. Thank you."
+        }
+    ]
+}
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:147 | Found 2 valid highlights
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:189 | Processing chunk 3/4
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:12:11 | DEBUG    | Components.highlight_detector:52 | Segments text: [145.0s - 146.0s]  Thank you.
+[146.0s - 147.0s]  Thank you.
+[147.0s - 148.0s]  Thank you.
+[148.0s - 149.0s]  Thank you.
+[149.0s - 150.0s]  Thank you.
+[150.0s - 151.0s]  Thank you.
+[151.0s - 152.0s]  Thank you.
+[152.0s - 153.0s]  Thank you.
+[153.0s - 154.0s]  Thank you.
+[154.0s - 155.0s]  Thank you.
+[155.0s - 156.0s]  Thank you.
+[156.0s - 157.0s]  Thank you.
+[157.0s - 158.0s]  Thank you.
+[158.0s - 159.0s]  Thank you.
+[159.0s - 160.0s]  Thank you.
+[160.0s - 161.0s]  Thank you.
+[161.0s - 162.0s]  T...
+2024-12-15 23:12:11 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:12:12 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {"start": 145.0, "end": 175.0, "text": "Thank you (repeated 30 times)"}
+    ]
+}
+
+Comentário: Não há frases impactantes, polêmicas, revelações surpreendentes ou informações exclusivas na transcrição fornecida. Portanto, o momento com maior potencial viral seria o repetitivo agradecimento, que pode ser interpretado como uma expressão de humildade ou dedicação. O momento completo tem 30 repetições de "Thank you", totalizando 30 segundos, o que cumpre as regras e critérios estabelecidos.
+2024-12-15 23:12:12 | ERROR    | Components.highlight_detector:154 | Failed to parse JSON response: Extra data: line 7 column 1 (char 111)
+2024-12-15 23:12:12 | ERROR    | Components.highlight_detector:155 | Raw response: {
+    "highlights": [
+        {"start": 145.0, "end": 175.0, "text": "Thank you (repeated 30 times)"}
+    ]
+}
+
+Comentário: Não há frases impactantes, polêmicas, revelações surpreendentes ou informações exclusivas na transcrição fornecida. Portanto, o momento com maior potencial viral seria o repetitivo agradecimento, que pode ser interpretado como uma expressão de humildade ou dedicação. O momento completo tem 30 repetições de "Thank you", totalizando 30 segundos, o que cumpre as regras e critérios estabelecidos.
+2024-12-15 23:12:12 | INFO     | Components.highlight_detector:189 | Processing chunk 4/4
+2024-12-15 23:12:12 | INFO     | Components.highlight_detector:51 | Processing 19 segments in chunk
+2024-12-15 23:12:12 | DEBUG    | Components.highlight_detector:52 | Segments text: [175.0s - 176.0s]  Thank you.
+[176.0s - 177.0s]  Thank you.
+[178.0s - 179.0s]  Thank you.
+[179.0s - 180.0s]  Thank you.
+[180.0s - 183.0s]  Thank you.
+[183.0s - 184.0s]  Thank you.
+[184.0s - 185.0s]  Thank you.
+[185.0s - 186.0s]  Thank you.
+[186.0s - 187.0s]  Thank you.
+[187.0s - 188.0s]  Thank you.
+[188.0s - 189.0s]  Thank you.
+[189.0s - 190.0s]  Thank you.
+[190.0s - 191.0s]  That means, thank you.
+[191.0s - 192.0s]  Thank you.
+[192.0s - 193.0s]  Thank you.
+[193.0s - 198.0s]  That means, Thales,...
+2024-12-15 23:12:12 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:12:13 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {
+            "start": 193.0,
+            "end": 198.0,
+            "text": "That means, Thales, Thales devils can't run away."
+        },
+        {
+            "start": 201.0,
+            "end": 204.0,
+            "text": "Christmas anywhere, or zoos can run away."
+        }
+    ]
+}
+2024-12-15 23:12:13 | WARNING  | Components.highlight_detector:144 | Invalid duration: 3.0s for highlight {'start': 201.0, 'end': 204.0, 'text': 'Christmas anywhere, or zoos can run away.'}
+2024-12-15 23:12:13 | INFO     | Components.highlight_detector:147 | Found 1 valid highlights
+2024-12-15 23:12:13 | INFO     | Components.highlight_detector:202 | Found 3 best highlights
+2024-12-15 23:16:30 | INFO     | Components.highlight_detector:184 | Processing 7 chunks of segments
+2024-12-15 23:16:30 | INFO     | Components.highlight_detector:189 | Processing chunk 1/7
+2024-12-15 23:16:30 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:16:30 | DEBUG    | Components.highlight_detector:52 | Segments text: [0.0s - 5.0s]  Hey folks today is Friday December 13th, 2024.
+[5.0s - 8.3s]  As usual my name is Jake Baldino here to talk about all the video game news.
+[8.3s - 12.7s]  This is going on this week and clearly I'm in the dingy hotel room because I am at
+[12.7s - 13.7s]  the game awards.
+[13.7s - 17.8s]  Yes there is a lot to talk about with that so we're going to get right to the jump.
+[17.8s - 21.2s]  Here I'm going to get you caught up with kind of like a greatest hits kind of highlight
+[21.2s ...
+2024-12-15 23:16:30 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:16:32 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {
+            "start": 41.3,
+            "end": 44.8,
+            "text": "The first thing is outer wilds to gameplay. This looks very much like they're continuing from outer worlds one of the bigger crazier more combat options bigger worlds and I like that the game confidently is just like hey we're there with the people who made Cotor 2."
+        },
+        {
+            "start": 61.1,
+            "end": 66.2,
+            "text": "Also I did not see this coming but Cifu the people behind Cifu slow clap their new game announced and it is not a brawler which is something that they usually stick to combat focused games. No it's a soccer slash football game called rematch."
+        },
+        {
+            "start": 95.8,
+            "end": 98.9,
+            "text": "No they announced kind of like a retro ninja guidance again but I really didn't expect this Turrock origins. Does this look like Turrock?"
+        },
+        {
+            "start": 100.0,
+            "end": 104.3,
+            "text": "It's definitely an evolution it's definitely modern feeling with the third person shooter perspective and wall running and all that but yeah I'll open here more about this soon."
+        }
+    ]
+}
+2024-12-15 23:16:32 | WARNING  | Components.highlight_detector:144 | Invalid duration: 4.299999999999997s for highlight {'start': 100.0, 'end': 104.3, 'text': "It's definitely an evolution it's definitely modern feeling with the third person shooter perspective and wall running and all that but yeah I'll open here more about this soon."}
+2024-12-15 23:16:32 | INFO     | Components.highlight_detector:147 | Found 3 valid highlights
+2024-12-15 23:16:32 | INFO     | Components.highlight_detector:189 | Processing chunk 2/7
+2024-12-15 23:16:32 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:16:32 | DEBUG    | Components.highlight_detector:52 | Segments text: [104.3s - 109.6s]  person over the shoulder gameplay but it's very cool to hear Turrock back again I will
+[109.6s - 111.1s]  totally give this a try.
+[111.1s - 115.3s]  Also check this out this is from Gen Design the game developed studio with Fumitu
+[115.3s - 120.4s]  Awaita of course behind things like Eko and Shadow of the Colossus this is their new
+[120.4s - 122.4s]  game Project Robot.
+[122.4s - 126.6s]  We got a very small glimpse of this not really a lot to go on other than that they show...
+2024-12-15 23:16:32 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:16:33 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {
+            "start": 111.1,
+            "end": 115.3,
+            "text": "Also check this out this is from Gen Design the game developed studio with Fumitu Awaita of course behind things like Eko and Shadow of the Colossus this is their new game Project Robot."
+        },
+        {
+            "start": 129.8,
+            "end": 137.7,
+            "text": "A little guy climbing up a big thing very mysterious cool lonely atmosphere but also he climbed up on a mech so essentially it's the Shadow of the Colossus people making a mech game"
+        },
+        {
+            "start": 160.4,
+            "end": 165.4,
+            "text": "Hey you from software people got something here a new Elden Ring game this is a standalone game called Elden Ring Night Ring"
+        },
+        {
+            "start": 188.8,
+            "end": 194.0,
+            "text": "Also speaking of multiplayer stuff hell divers omens of tyranny their expansion was announced and it's out now"
+        },
+        {
+            "start": 216.1,
+            "end": 222.2,
+            "text": "this is a new thing with Laura Bailey Aaron Paul a bunch of other famous actors in kind of like a superhero management office simulator type game"
+        },
+        {
+            "start": 238.7,
+            "end": 243.5,
+            "text": "one of the big announcements of the night was intergalactic the heretic prophecy this is the"
+        }
+    ]
+}
+2024-12-15 23:16:33 | WARNING  | Components.highlight_detector:144 | Invalid duration: 4.800000000000011s for highlight {'start': 238.7, 'end': 243.5, 'text': 'one of the big announcements of the night was intergalactic the heretic prophecy this is the'}
+2024-12-15 23:16:33 | INFO     | Components.highlight_detector:147 | Found 5 valid highlights
+2024-12-15 23:16:33 | INFO     | Components.highlight_detector:189 | Processing chunk 3/7
+2024-12-15 23:16:33 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:16:33 | DEBUG    | Components.highlight_detector:52 | Segments text: [243.5s - 249.0s]  new sci-fi game from naughty dog I'm at the very least very happy that they're working on something
+[249.0s - 255.2s]  that isn't just more last of us or more uncharted this is a new thing in a new universe and
+[255.2s - 260.5s]  not too much to go on yet we got a little bit of a glimpse of action towards the end I'm still
+[260.5s - 266.4s]  waiting to see a lot more from this still nonetheless a cool teaser but we also got gameplay for
+[266.4s - 271.6s]  Borderlands 4 and thi...
+2024-12-15 23:16:33 | INFO     | Components.highlight_detector:91 | Calling Groq API
+2024-12-15 23:16:36 | DEBUG    | Components.highlight_detector:103 | LLM response: {
+    "highlights": [
+        {
+            "start": 243.5,
+            "end": 260.5,
+            "text": "new sci-fi game from naughty dog I'm at the very least very happy that they're working on something that isn't just more last of us or more uncharted this is a new thing in a new universe and not too much to go on yet we got a little bit of a glimpse of action towards the end I'm still waiting to see a lot more from this still nonetheless a cool teaser"
+        },
+        {
+            "start": 266.4,
+            "end": 285.0,
+            "text": "Borderlands 4 gameplay and this absolutely looks like more Borderlands I don't think that's a bad thing I think Borderlands fans know what they want at this point hopefully this writes the wrongs of some of the things that in the missteps they made in Borderlands 3 but the new playable characters look awesome the abilities the weapons the loot it's all here"
+        },
+        {
+            "start": 290.2,
+            "end": 302.2,
+            "text": "Capcom is bringing back the way of the sword as a PlayStation 2 classic this is really nice to see not a lot of info on it yet but like Capcom has alluded they've expressed interest for a while now in bringing back classic franchises and it's nice to see this one"
+        },
+        {
+            "start": 314.4,
+            "end": 325.2,
+            "text": "sonic racing crossroads was announced what a confident announcement they literally just show shadow the hedgehog get into a cool car and drive away they're like that's it that's all you need to know you sonic freaks you're happy"
+        },
+        {
+            "start": 336.2,
+            "end": 349.3,
+            "text": "dying light the beast this is a new standalone dying light game starring Kyle crane the guy from the first game now he has some superpowers this game really appeals to me because it does look like a return to form a little bit to the original game"
+        },
+        {
+            "start": 355.8,
+            "end": 365.6,
+            "text": "mafia the old country full trailer this was previously announced but we didn't really know too much about it and now we got a little bit more of a glimpse and it's kind of what I expected it's a young character in Italy in the early 1900s getting into the world of organized crime"
+        }
+    ]
+}
+2024-12-15 23:16:36 | INFO     | Components.highlight_detector:147 | Found 6 valid highlights
+2024-12-15 23:16:36 | INFO     | Components.highlight_detector:189 | Processing chunk 4/7
+2024-12-15 23:16:36 | INFO     | Components.highlight_detector:51 | Processing 30 segments in chunk
+2024-12-15 23:16:36 | DEBUG    | Components.highlight_detector:52 | Segments text: [403.5s - 408.5s]  a little bit what's on your desk for many months now I've had novium's hover pens by my side right
+[408.5s - 414.4s]  at my desk and to be totally straight up and simple they're just really good high quality writing
+[414.4s - 419.0s]  devices that look cool as out in fact the interstellar edition you see here has actually received
+[419.0s - 426.1s]  the award of one of the best innovations of 2022 by time it's a ballpoint pen sitting at a 23.5
+[426.1s - 431.3s]  degree angle i...
+2024-12-15 23:16:36 | INFO     | Components.highlight_detector:91 | Calling Groq API

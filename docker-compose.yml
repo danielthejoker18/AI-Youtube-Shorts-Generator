@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+      - ./videos:/app/videos
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    devices:
+      - /dev/video0:/dev/video0  # For webcam access if needed
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]  # For CUDA support
+    ports:
+      - "8000:8000"  # If we add API endpoints later
+    tty: true  # Keep container running for interactive input

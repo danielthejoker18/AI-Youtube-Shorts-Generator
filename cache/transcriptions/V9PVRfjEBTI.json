@@ -1,0 +1,1380 @@
+{
+  "text": " I want you to stay Till I'm in the grave Till I ride away And I bury Till I'm in the care I'm scared that you can't read If you go on going through Because it was always you I'm falling And if I'm burning blue Please don't save me Nothing left to lose Without my baby Words of a feather We just stick together in the I said it never Think our words are better alone Can't change the weather Might not be forever But if it's been forever It's even better And I don't know what I'm crying for I don't think I could love it more If I knew the people would make me eyes I'll call you till the day that I die Till the day that I die Till the light is my eyes Till the day that I die I want you to stay I want you to stay I want you to stay You would believe If I told you You would leave the compliments I throw you But you're so full of shame Tell me it's a bit Say you say it Your mind's a bit hooded Say you want to quit Don't be stupid I don't know what I'm crying I don't think I could love you more I don't know what I'm feeling But maybe I don't want to say goodbye To the other people Just feel like they didn't know the story I'm living To the other people I can't believe If it's been forever It's even better I can't believe If I don't love you more It's even better It's even better I can't believe If I told you I can't believe I'm living To the other people I can't believe If I told you You would believe If I told you You would believe If I told you You would believe",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " I want you to stay",
+      "tokens": [
+        50364,
+        286,
+        528,
+        291,
+        281,
+        1754,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 10.0,
+      "text": " Till I'm in the grave",
+      "tokens": [
+        50664,
+        20227,
+        286,
+        478,
+        294,
+        264,
+        12525,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 15.0,
+      "text": " Till I ride away",
+      "tokens": [
+        50864,
+        20227,
+        286,
+        5077,
+        1314,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.0,
+      "end": 17.0,
+      "text": " And I bury",
+      "tokens": [
+        51114,
+        400,
+        286,
+        28919,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.0,
+      "end": 19.0,
+      "text": " Till I'm in the care",
+      "tokens": [
+        51214,
+        20227,
+        286,
+        478,
+        294,
+        264,
+        1127,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.0,
+      "end": 21.0,
+      "text": " I'm scared that you can't read",
+      "tokens": [
+        51314,
+        286,
+        478,
+        5338,
+        300,
+        291,
+        393,
+        380,
+        1401,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 21.0,
+      "end": 24.0,
+      "text": " If you go on going through",
+      "tokens": [
+        51414,
+        759,
+        291,
+        352,
+        322,
+        516,
+        807,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.0,
+      "end": 28.0,
+      "text": " Because it was always you",
+      "tokens": [
+        51564,
+        1436,
+        309,
+        390,
+        1009,
+        291,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4379667688588627,
+      "compression_ratio": 1.4297520661157024,
+      "no_speech_prob": 0.5356861352920532
+    },
+    {
+      "id": 8,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 31.0,
+      "text": " I'm falling",
+      "tokens": [
+        50364,
+        286,
+        478,
+        7440,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 9,
+      "seek": 2800,
+      "start": 31.0,
+      "end": 33.0,
+      "text": " And if I'm burning blue",
+      "tokens": [
+        50514,
+        400,
+        498,
+        286,
+        478,
+        9488,
+        3344,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 10,
+      "seek": 2800,
+      "start": 33.0,
+      "end": 35.0,
+      "text": " Please don't save me",
+      "tokens": [
+        50614,
+        2555,
+        500,
+        380,
+        3155,
+        385,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 11,
+      "seek": 2800,
+      "start": 35.0,
+      "end": 37.0,
+      "text": " Nothing left to lose",
+      "tokens": [
+        50714,
+        6693,
+        1411,
+        281,
+        3624,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 12,
+      "seek": 2800,
+      "start": 37.0,
+      "end": 41.0,
+      "text": " Without my baby",
+      "tokens": [
+        50814,
+        9129,
+        452,
+        3186,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 13,
+      "seek": 2800,
+      "start": 41.0,
+      "end": 43.0,
+      "text": " Words of a feather",
+      "tokens": [
+        51014,
+        32857,
+        295,
+        257,
+        25852,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 14,
+      "seek": 2800,
+      "start": 43.0,
+      "end": 46.0,
+      "text": " We just stick together in the",
+      "tokens": [
+        51114,
+        492,
+        445,
+        2897,
+        1214,
+        294,
+        264,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 15,
+      "seek": 2800,
+      "start": 46.0,
+      "end": 48.0,
+      "text": " I said it never",
+      "tokens": [
+        51264,
+        286,
+        848,
+        309,
+        1128,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 16,
+      "seek": 2800,
+      "start": 48.0,
+      "end": 51.0,
+      "text": " Think our words are better alone",
+      "tokens": [
+        51364,
+        6557,
+        527,
+        2283,
+        366,
+        1101,
+        3312,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 17,
+      "seek": 2800,
+      "start": 51.0,
+      "end": 53.0,
+      "text": " Can't change the weather",
+      "tokens": [
+        51514,
+        1664,
+        380,
+        1319,
+        264,
+        5503,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 18,
+      "seek": 2800,
+      "start": 53.0,
+      "end": 55.0,
+      "text": " Might not be forever",
+      "tokens": [
+        51614,
+        23964,
+        406,
+        312,
+        5680,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 19,
+      "seek": 2800,
+      "start": 55.0,
+      "end": 57.0,
+      "text": " But if it's been forever",
+      "tokens": [
+        51714,
+        583,
+        498,
+        309,
+        311,
+        668,
+        5680,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532723217475705,
+      "compression_ratio": 1.4555555555555555,
+      "no_speech_prob": 0.08298031240701675
+    },
+    {
+      "id": 20,
+      "seek": 5700,
+      "start": 57.0,
+      "end": 60.0,
+      "text": " It's even better",
+      "tokens": [
+        50364,
+        467,
+        311,
+        754,
+        1101,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1826208483788275,
+      "compression_ratio": 1.4615384615384615,
+      "no_speech_prob": 0.016703765839338303
+    },
+    {
+      "id": 21,
+      "seek": 5700,
+      "start": 60.0,
+      "end": 65.0,
+      "text": " And I don't know what I'm crying for",
+      "tokens": [
+        50514,
+        400,
+        286,
+        500,
+        380,
+        458,
+        437,
+        286,
+        478,
+        8554,
+        337,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1826208483788275,
+      "compression_ratio": 1.4615384615384615,
+      "no_speech_prob": 0.016703765839338303
+    },
+    {
+      "id": 22,
+      "seek": 5700,
+      "start": 65.0,
+      "end": 69.0,
+      "text": " I don't think I could love it more",
+      "tokens": [
+        50764,
+        286,
+        500,
+        380,
+        519,
+        286,
+        727,
+        959,
+        309,
+        544,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1826208483788275,
+      "compression_ratio": 1.4615384615384615,
+      "no_speech_prob": 0.016703765839338303
+    },
+    {
+      "id": 23,
+      "seek": 5700,
+      "start": 69.0,
+      "end": 75.0,
+      "text": " If I knew the people would make me eyes",
+      "tokens": [
+        50964,
+        759,
+        286,
+        2586,
+        264,
+        561,
+        576,
+        652,
+        385,
+        2575,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1826208483788275,
+      "compression_ratio": 1.4615384615384615,
+      "no_speech_prob": 0.016703765839338303
+    },
+    {
+      "id": 24,
+      "seek": 5700,
+      "start": 75.0,
+      "end": 80.0,
+      "text": " I'll call you till the day that I die",
+      "tokens": [
+        51264,
+        286,
+        603,
+        818,
+        291,
+        4288,
+        264,
+        786,
+        300,
+        286,
+        978,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1826208483788275,
+      "compression_ratio": 1.4615384615384615,
+      "no_speech_prob": 0.016703765839338303
+    },
+    {
+      "id": 25,
+      "seek": 5700,
+      "start": 80.0,
+      "end": 85.0,
+      "text": " Till the day that I die",
+      "tokens": [
+        51514,
+        20227,
+        264,
+        786,
+        300,
+        286,
+        978,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1826208483788275,
+      "compression_ratio": 1.4615384615384615,
+      "no_speech_prob": 0.016703765839338303
+    },
+    {
+      "id": 26,
+      "seek": 8500,
+      "start": 85.0,
+      "end": 89.0,
+      "text": " Till the light is my eyes",
+      "tokens": [
+        50364,
+        20227,
+        264,
+        1442,
+        307,
+        452,
+        2575,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 27,
+      "seek": 8500,
+      "start": 89.0,
+      "end": 94.0,
+      "text": " Till the day that I die",
+      "tokens": [
+        50564,
+        20227,
+        264,
+        786,
+        300,
+        286,
+        978,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 28,
+      "seek": 8500,
+      "start": 94.0,
+      "end": 97.0,
+      "text": " I want you to stay",
+      "tokens": [
+        50814,
+        286,
+        528,
+        291,
+        281,
+        1754,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 29,
+      "seek": 8500,
+      "start": 97.0,
+      "end": 100.0,
+      "text": " I want you to stay",
+      "tokens": [
+        50964,
+        286,
+        528,
+        291,
+        281,
+        1754,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 30,
+      "seek": 8500,
+      "start": 100.0,
+      "end": 103.0,
+      "text": " I want you to stay",
+      "tokens": [
+        51114,
+        286,
+        528,
+        291,
+        281,
+        1754,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 31,
+      "seek": 8500,
+      "start": 103.0,
+      "end": 106.0,
+      "text": " You would believe",
+      "tokens": [
+        51264,
+        509,
+        576,
+        1697,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 32,
+      "seek": 8500,
+      "start": 106.0,
+      "end": 108.0,
+      "text": " If I told you",
+      "tokens": [
+        51414,
+        759,
+        286,
+        1907,
+        291,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 33,
+      "seek": 8500,
+      "start": 108.0,
+      "end": 111.0,
+      "text": " You would leave the compliments",
+      "tokens": [
+        51514,
+        509,
+        576,
+        1856,
+        264,
+        35468,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 34,
+      "seek": 8500,
+      "start": 111.0,
+      "end": 113.0,
+      "text": " I throw you",
+      "tokens": [
+        51664,
+        286,
+        3507,
+        291,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3527566848262664,
+      "compression_ratio": 1.6851851851851851,
+      "no_speech_prob": 0.020612867549061775
+    },
+    {
+      "id": 35,
+      "seek": 11300,
+      "start": 113.0,
+      "end": 116.0,
+      "text": " But you're so full of shame",
+      "tokens": [
+        50364,
+        583,
+        291,
+        434,
+        370,
+        1577,
+        295,
+        10069,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 36,
+      "seek": 11300,
+      "start": 116.0,
+      "end": 121.0,
+      "text": " Tell me it's a bit",
+      "tokens": [
+        50514,
+        5115,
+        385,
+        309,
+        311,
+        257,
+        857,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 37,
+      "seek": 11300,
+      "start": 121.0,
+      "end": 124.0,
+      "text": " Say you say it",
+      "tokens": [
+        50764,
+        6463,
+        291,
+        584,
+        309,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 38,
+      "seek": 11300,
+      "start": 124.0,
+      "end": 127.0,
+      "text": " Your mind's a bit hooded",
+      "tokens": [
+        50914,
+        2260,
+        1575,
+        311,
+        257,
+        857,
+        1106,
+        12340,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 39,
+      "seek": 11300,
+      "start": 127.0,
+      "end": 129.0,
+      "text": " Say you want to quit",
+      "tokens": [
+        51064,
+        6463,
+        291,
+        528,
+        281,
+        10366,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 40,
+      "seek": 11300,
+      "start": 129.0,
+      "end": 133.0,
+      "text": " Don't be stupid",
+      "tokens": [
+        51164,
+        1468,
+        380,
+        312,
+        6631,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 41,
+      "seek": 11300,
+      "start": 133.0,
+      "end": 138.0,
+      "text": " I don't know what I'm crying",
+      "tokens": [
+        51364,
+        286,
+        500,
+        380,
+        458,
+        437,
+        286,
+        478,
+        8554,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 42,
+      "seek": 11300,
+      "start": 138.0,
+      "end": 142.0,
+      "text": " I don't think I could love you more",
+      "tokens": [
+        51614,
+        286,
+        500,
+        380,
+        519,
+        286,
+        727,
+        959,
+        291,
+        544,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29422760009765625,
+      "compression_ratio": 1.413533834586466,
+      "no_speech_prob": 0.020156031474471092
+    },
+    {
+      "id": 43,
+      "seek": 14200,
+      "start": 142.0,
+      "end": 145.0,
+      "text": " I don't know what I'm feeling",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        458,
+        437,
+        286,
+        478,
+        2633,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 44,
+      "seek": 14200,
+      "start": 145.0,
+      "end": 152.0,
+      "text": " But maybe I don't want to say goodbye",
+      "tokens": [
+        50514,
+        583,
+        1310,
+        286,
+        500,
+        380,
+        528,
+        281,
+        584,
+        12084,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 45,
+      "seek": 14200,
+      "start": 152.0,
+      "end": 154.0,
+      "text": " To the other people",
+      "tokens": [
+        50864,
+        1407,
+        264,
+        661,
+        561,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 46,
+      "seek": 14200,
+      "start": 154.0,
+      "end": 157.0,
+      "text": " Just feel like they didn't know the story",
+      "tokens": [
+        50964,
+        1449,
+        841,
+        411,
+        436,
+        994,
+        380,
+        458,
+        264,
+        1657,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 47,
+      "seek": 14200,
+      "start": 157.0,
+      "end": 159.0,
+      "text": " I'm living",
+      "tokens": [
+        51114,
+        286,
+        478,
+        2647,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 48,
+      "seek": 14200,
+      "start": 159.0,
+      "end": 160.0,
+      "text": " To the other people",
+      "tokens": [
+        51214,
+        1407,
+        264,
+        661,
+        561,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 49,
+      "seek": 14200,
+      "start": 160.0,
+      "end": 163.0,
+      "text": " I can't believe",
+      "tokens": [
+        51264,
+        286,
+        393,
+        380,
+        1697,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 50,
+      "seek": 14200,
+      "start": 163.0,
+      "end": 167.0,
+      "text": " If it's been forever",
+      "tokens": [
+        51414,
+        759,
+        309,
+        311,
+        668,
+        5680,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 51,
+      "seek": 14200,
+      "start": 167.0,
+      "end": 170.0,
+      "text": " It's even better",
+      "tokens": [
+        51614,
+        467,
+        311,
+        754,
+        1101,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.530120359148298,
+      "compression_ratio": 1.5285714285714285,
+      "no_speech_prob": 0.07712007313966751
+    },
+    {
+      "id": 52,
+      "seek": 17000,
+      "start": 170.0,
+      "end": 172.0,
+      "text": " I can't believe",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        1697,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3242634773254395,
+      "compression_ratio": 1.5072463768115942,
+      "no_speech_prob": 0.09545780718326569
+    },
+    {
+      "id": 53,
+      "seek": 17000,
+      "start": 172.0,
+      "end": 175.0,
+      "text": " If I don't love you more",
+      "tokens": [
+        50464,
+        759,
+        286,
+        500,
+        380,
+        959,
+        291,
+        544,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3242634773254395,
+      "compression_ratio": 1.5072463768115942,
+      "no_speech_prob": 0.09545780718326569
+    },
+    {
+      "id": 54,
+      "seek": 17000,
+      "start": 175.0,
+      "end": 178.0,
+      "text": " It's even better",
+      "tokens": [
+        50614,
+        467,
+        311,
+        754,
+        1101,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3242634773254395,
+      "compression_ratio": 1.5072463768115942,
+      "no_speech_prob": 0.09545780718326569
+    },
+    {
+      "id": 55,
+      "seek": 17000,
+      "start": 178.0,
+      "end": 180.0,
+      "text": " It's even better",
+      "tokens": [
+        50764,
+        467,
+        311,
+        754,
+        1101,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3242634773254395,
+      "compression_ratio": 1.5072463768115942,
+      "no_speech_prob": 0.09545780718326569
+    },
+    {
+      "id": 56,
+      "seek": 17000,
+      "start": 180.0,
+      "end": 182.0,
+      "text": " I can't believe",
+      "tokens": [
+        50864,
+        286,
+        393,
+        380,
+        1697,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3242634773254395,
+      "compression_ratio": 1.5072463768115942,
+      "no_speech_prob": 0.09545780718326569
+    },
+    {
+      "id": 57,
+      "seek": 17000,
+      "start": 182.0,
+      "end": 185.0,
+      "text": " If I told you",
+      "tokens": [
+        50964,
+        759,
+        286,
+        1907,
+        291,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3242634773254395,
+      "compression_ratio": 1.5072463768115942,
+      "no_speech_prob": 0.09545780718326569
+    },
+    {
+      "id": 58,
+      "seek": 20000,
+      "start": 200.0,
+      "end": 203.0,
+      "text": " I can't believe",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        1697,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5988600594656808,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.91389000415802
+    },
+    {
+      "id": 59,
+      "seek": 23000,
+      "start": 231.0,
+      "end": 233.0,
+      "text": " I'm living",
+      "tokens": [
+        50414,
+        286,
+        478,
+        2647,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 60,
+      "seek": 23000,
+      "start": 233.0,
+      "end": 236.0,
+      "text": " To the other people",
+      "tokens": [
+        50514,
+        1407,
+        264,
+        661,
+        561,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 61,
+      "seek": 23000,
+      "start": 236.0,
+      "end": 239.0,
+      "text": " I can't believe",
+      "tokens": [
+        50664,
+        286,
+        393,
+        380,
+        1697,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 62,
+      "seek": 23000,
+      "start": 239.0,
+      "end": 242.0,
+      "text": " If I told you",
+      "tokens": [
+        50814,
+        759,
+        286,
+        1907,
+        291,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 63,
+      "seek": 23000,
+      "start": 242.0,
+      "end": 245.0,
+      "text": " You would believe",
+      "tokens": [
+        50964,
+        509,
+        576,
+        1697,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 64,
+      "seek": 23000,
+      "start": 245.0,
+      "end": 248.0,
+      "text": " If I told you",
+      "tokens": [
+        51114,
+        759,
+        286,
+        1907,
+        291,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 65,
+      "seek": 23000,
+      "start": 248.0,
+      "end": 251.0,
+      "text": " You would believe",
+      "tokens": [
+        51264,
+        509,
+        576,
+        1697,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 66,
+      "seek": 23000,
+      "start": 251.0,
+      "end": 254.0,
+      "text": " If I told you",
+      "tokens": [
+        51414,
+        759,
+        286,
+        1907,
+        291,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    },
+    {
+      "id": 67,
+      "seek": 23000,
+      "start": 254.0,
+      "end": 257.0,
+      "text": " You would believe",
+      "tokens": [
+        51564,
+        509,
+        576,
+        1697,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.378907533792349,
+      "compression_ratio": 1.8933333333333333,
+      "no_speech_prob": 0.8642430901527405
+    }
+  ],
+  "language": "en",
+  "source": "whisper",
+  "cached_at": "2024-12-15T22:32:30.392649"
+}

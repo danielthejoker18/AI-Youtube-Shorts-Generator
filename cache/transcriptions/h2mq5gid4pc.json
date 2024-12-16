@@ -1,0 +1,2836 @@
+{
+  "text": " Shhh. Run run! Whoa! SUI! Absolutely correct. Good God. It's so intense. What are you doing? Getting coffee for youwir warmth FU'SHMHO AH HI HEY HEY HEY HEY YEEEE This video is Tu Ok wait wait wait wait wait wait, you are not� Watch out, follow me What? What? What? What? What? What? What? What? What? We are the world. What? What? What? What? What? Okay, let's go. What? What? What? Hello. Hello. Hello. I'm not going to do this. I don't want to do this. What? You got my shit knife. Oh my gosh! They want to move! I said, get the gun. I said get the gun. I said get the gun. Oh my gosh! I have to get a gun. Why are you noise? Why are you not giving? You want to give it? feels like an Amateur wearing a black clothing up hot ? accident ?screaming food my brother got a little ailment not funny be careful Cristian Tar- patient Take his water earlier Oh What's again home sweet Yeah Oh This one Oh Oh Oh I'm good I get pizza Nice guy mission Past! you Three, two, one. Y'all ain't ever got to get my eyebrows done. No more. Stop, stop, stop. Hey, hey, hey, hey, hey. Drop everything on your parties. NICE! I did it. I did it. give me your glasses here I go do one more you i'm having some cheese how did you guys do that what is this? now go ahead and do my trip can i come? if you wanna mess it up again then there is no gas inside what would you do if I جعدень בכه Macrata WILL MY you Hey guys I'm in New York City just hanging out Oh Hi Oh Once again home sweet Oh Okay Hi guys, the rainy season ended! Them actors and crew English軍! analyzing how to cruise<|sv|> livro Get ready f f f f f f f f f f f Many thanks to official, this is for you I will be very careful AHHHHHHHH f***.就是... The room here? What a fuck, is this ma- Oh Once again home sweet Oh What a bus Bah irritable again Haha boe boe boe Show me your face Hi Guys Brenda ya Bald Bigcent kardeş",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.8,
+      "text": " Shhh.",
+      "tokens": [
+        50364,
+        1160,
+        3454,
+        13,
+        50454
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.7520381927490236,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.3507809042930603
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.8,
+      "end": 4.04,
+      "text": " Run run!",
+      "tokens": [
+        50454,
+        8950,
+        1190,
+        0,
+        50566
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.7520381927490236,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.3507809042930603
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 17.22,
+      "end": 19.22,
+      "text": " Whoa!",
+      "tokens": [
+        51225,
+        7521,
+        0,
+        51325
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.7520381927490236,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.3507809042930603
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 23.2,
+      "end": 26.16,
+      "text": " SUI!",
+      "tokens": [
+        51524,
+        9872,
+        40,
+        0,
+        51672
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.7520381927490236,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.3507809042930603
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 36.7,
+      "text": " Absolutely correct.",
+      "tokens": [
+        50364,
+        7021,
+        3006,
+        13,
+        50699
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8030882941351996,
+      "compression_ratio": 0.8846153846153846,
+      "no_speech_prob": 0.10683879256248474
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 51.56,
+      "end": 51.68,
+      "text": " Good God.",
+      "tokens": [
+        51442,
+        2205,
+        1265,
+        13,
+        51448
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8030882941351996,
+      "compression_ratio": 0.8846153846153846,
+      "no_speech_prob": 0.10683879256248474
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 51.82,
+      "end": 53.66,
+      "text": " It's so intense.",
+      "tokens": [
+        51455,
+        467,
+        311,
+        370,
+        9447,
+        13,
+        51547
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8030882941351996,
+      "compression_ratio": 0.8846153846153846,
+      "no_speech_prob": 0.10683879256248474
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 66.44,
+      "text": " What are you doing?",
+      "tokens": [
+        50364,
+        708,
+        366,
+        291,
+        884,
+        30,
+        50686
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9995904219777962,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 0.05766250565648079
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 66.44,
+      "end": 76.1,
+      "text": " Getting coffee for you",
+      "tokens": [
+        50686,
+        13674,
+        4982,
+        337,
+        291,
+        51169
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9995904219777962,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 0.05766250565648079
+    },
+    {
+      "id": 9,
+      "seek": 6000,
+      "start": 76.1,
+      "end": 89.42,
+      "text": "wir warmth",
+      "tokens": [
+        51169,
+        43327,
+        24737,
+        51835
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9995904219777962,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 0.05766250565648079
+    },
+    {
+      "id": 10,
+      "seek": 8942,
+      "start": 89.42,
+      "end": 90.02,
+      "text": " FU'SHMHO",
+      "tokens": [
+        50364,
+        479,
+        52,
+        11460,
+        39,
+        44,
+        39,
+        46,
+        50394
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 11,
+      "seek": 8942,
+      "start": 92.28,
+      "end": 113.58,
+      "text": " AH",
+      "tokens": [
+        50507,
+        25888,
+        51572
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 12,
+      "seek": 8942,
+      "start": 113.7,
+      "end": 114.04,
+      "text": " HI",
+      "tokens": [
+        51578,
+        44376,
+        51595
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 13,
+      "seek": 8942,
+      "start": 114.84,
+      "end": 115.5,
+      "text": " HEY",
+      "tokens": [
+        51635,
+        43821,
+        51668
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 14,
+      "seek": 8942,
+      "start": 116.04,
+      "end": 116.6,
+      "text": " HEY",
+      "tokens": [
+        51695,
+        43821,
+        51723
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 15,
+      "seek": 8942,
+      "start": 116.6,
+      "end": 117.28,
+      "text": " HEY",
+      "tokens": [
+        51723,
+        43821,
+        51757
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 16,
+      "seek": 8942,
+      "start": 117.38,
+      "end": 117.92,
+      "text": " HEY",
+      "tokens": [
+        51762,
+        43821,
+        51789
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 17,
+      "seek": 8942,
+      "start": 118.22,
+      "end": 119.04,
+      "text": " YEEEE",
+      "tokens": [
+        51804,
+        398,
+        31817,
+        51845
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.172854900360107,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.538043200969696
+    },
+    {
+      "id": 18,
+      "seek": 11942,
+      "start": 119.42,
+      "end": 140.56,
+      "text": " This video is",
+      "tokens": [
+        50364,
+        639,
+        960,
+        307,
+        51421
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.364812850952148,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.5357144474983215
+    },
+    {
+      "id": 19,
+      "seek": 14056,
+      "start": 140.74,
+      "end": 147.54,
+      "text": " Tu",
+      "tokens": [
+        50373,
+        7836,
+        50713
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.818369140625,
+      "compression_ratio": 1.2857142857142858,
+      "no_speech_prob": 0.24415218830108643
+    },
+    {
+      "id": 20,
+      "seek": 14056,
+      "start": 153.74,
+      "end": 157.44,
+      "text": " Ok wait wait wait wait wait wait, you are not�",
+      "tokens": [
+        51023,
+        3477,
+        1699,
+        1699,
+        1699,
+        1699,
+        1699,
+        1699,
+        11,
+        291,
+        366,
+        406,
+        244,
+        51208
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.818369140625,
+      "compression_ratio": 1.2857142857142858,
+      "no_speech_prob": 0.24415218830108643
+    },
+    {
+      "id": 21,
+      "seek": 14056,
+      "start": 157.44,
+      "end": 158.54,
+      "text": " Watch out, follow me",
+      "tokens": [
+        51208,
+        7277,
+        484,
+        11,
+        1524,
+        385,
+        51263
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.818369140625,
+      "compression_ratio": 1.2857142857142858,
+      "no_speech_prob": 0.24415218830108643
+    },
+    {
+      "id": 22,
+      "seek": 17056,
+      "start": 170.56,
+      "end": 172.56,
+      "text": " What?",
+      "tokens": [
+        50364,
+        708,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 23,
+      "seek": 17056,
+      "start": 172.56,
+      "end": 174.56,
+      "text": " What?",
+      "tokens": [
+        50464,
+        708,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 24,
+      "seek": 17056,
+      "start": 174.56,
+      "end": 176.56,
+      "text": " What?",
+      "tokens": [
+        50564,
+        708,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 25,
+      "seek": 17056,
+      "start": 176.56,
+      "end": 178.56,
+      "text": " What?",
+      "tokens": [
+        50664,
+        708,
+        30,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 26,
+      "seek": 17056,
+      "start": 178.56,
+      "end": 180.56,
+      "text": " What?",
+      "tokens": [
+        50764,
+        708,
+        30,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 27,
+      "seek": 17056,
+      "start": 180.56,
+      "end": 182.56,
+      "text": " What?",
+      "tokens": [
+        50864,
+        708,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 28,
+      "seek": 17056,
+      "start": 182.56,
+      "end": 184.56,
+      "text": " What?",
+      "tokens": [
+        50964,
+        708,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 29,
+      "seek": 17056,
+      "start": 184.56,
+      "end": 186.56,
+      "text": " What?",
+      "tokens": [
+        51064,
+        708,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 30,
+      "seek": 17056,
+      "start": 186.56,
+      "end": 188.56,
+      "text": " What?",
+      "tokens": [
+        51164,
+        708,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 31,
+      "seek": 17056,
+      "start": 188.56,
+      "end": 192.56,
+      "text": " We are the world.",
+      "tokens": [
+        51264,
+        492,
+        366,
+        264,
+        1002,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 32,
+      "seek": 17056,
+      "start": 192.56,
+      "end": 196.56,
+      "text": " What?",
+      "tokens": [
+        51464,
+        708,
+        30,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 33,
+      "seek": 17056,
+      "start": 196.56,
+      "end": 198.56,
+      "text": " What?",
+      "tokens": [
+        51664,
+        708,
+        30,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6766056564618956,
+      "compression_ratio": 2.3714285714285714,
+      "no_speech_prob": 0.24428986012935638
+    },
+    {
+      "id": 34,
+      "seek": 19856,
+      "start": 198.56,
+      "end": 200.56,
+      "text": " What?",
+      "tokens": [
+        50364,
+        708,
+        30,
+        50464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 35,
+      "seek": 19856,
+      "start": 200.56,
+      "end": 202.56,
+      "text": " What?",
+      "tokens": [
+        50464,
+        708,
+        30,
+        50564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 36,
+      "seek": 19856,
+      "start": 202.56,
+      "end": 204.56,
+      "text": " What?",
+      "tokens": [
+        50564,
+        708,
+        30,
+        50664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 37,
+      "seek": 19856,
+      "start": 204.56,
+      "end": 206.56,
+      "text": " Okay, let's go.",
+      "tokens": [
+        50664,
+        1033,
+        11,
+        718,
+        311,
+        352,
+        13,
+        50764
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 38,
+      "seek": 19856,
+      "start": 208.56,
+      "end": 210.56,
+      "text": " What?",
+      "tokens": [
+        50864,
+        708,
+        30,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 39,
+      "seek": 19856,
+      "start": 210.56,
+      "end": 214.56,
+      "text": " What?",
+      "tokens": [
+        50964,
+        708,
+        30,
+        51164
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 40,
+      "seek": 19856,
+      "start": 214.56,
+      "end": 216.56,
+      "text": " What?",
+      "tokens": [
+        51164,
+        708,
+        30,
+        51264
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 41,
+      "seek": 19856,
+      "start": 216.56,
+      "end": 218.56,
+      "text": " Hello.",
+      "tokens": [
+        51264,
+        2425,
+        13,
+        51364
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 42,
+      "seek": 19856,
+      "start": 218.56,
+      "end": 220.56,
+      "text": " Hello.",
+      "tokens": [
+        51364,
+        2425,
+        13,
+        51464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 43,
+      "seek": 19856,
+      "start": 220.56,
+      "end": 222.56,
+      "text": " Hello.",
+      "tokens": [
+        51464,
+        2425,
+        13,
+        51564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 44,
+      "seek": 19856,
+      "start": 222.56,
+      "end": 224.56,
+      "text": " I'm not going to do this.",
+      "tokens": [
+        51564,
+        286,
+        478,
+        406,
+        516,
+        281,
+        360,
+        341,
+        13,
+        51664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 45,
+      "seek": 19856,
+      "start": 224.56,
+      "end": 226.56,
+      "text": " I don't want to do this.",
+      "tokens": [
+        51664,
+        286,
+        500,
+        380,
+        528,
+        281,
+        360,
+        341,
+        13,
+        51764
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.54893886681759,
+      "compression_ratio": 1.5569620253164558,
+      "no_speech_prob": 0.06580302119255066
+    },
+    {
+      "id": 46,
+      "seek": 22656,
+      "start": 226.56,
+      "end": 228.56,
+      "text": " What?",
+      "tokens": [
+        50364,
+        708,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7839313653799204,
+      "compression_ratio": 0.9076923076923077,
+      "no_speech_prob": 0.12012933194637299
+    },
+    {
+      "id": 47,
+      "seek": 22656,
+      "start": 228.56,
+      "end": 230.56,
+      "text": " You got my shit knife.",
+      "tokens": [
+        50464,
+        509,
+        658,
+        452,
+        4611,
+        7976,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7839313653799204,
+      "compression_ratio": 0.9076923076923077,
+      "no_speech_prob": 0.12012933194637299
+    },
+    {
+      "id": 48,
+      "seek": 22656,
+      "start": 230.56,
+      "end": 232.56,
+      "text": " Oh my gosh!",
+      "tokens": [
+        50564,
+        876,
+        452,
+        6502,
+        0,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7839313653799204,
+      "compression_ratio": 0.9076923076923077,
+      "no_speech_prob": 0.12012933194637299
+    },
+    {
+      "id": 49,
+      "seek": 22656,
+      "start": 238.56,
+      "end": 240.56,
+      "text": " They want to move!",
+      "tokens": [
+        50964,
+        814,
+        528,
+        281,
+        1286,
+        0,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7839313653799204,
+      "compression_ratio": 0.9076923076923077,
+      "no_speech_prob": 0.12012933194637299
+    },
+    {
+      "id": 50,
+      "seek": 25656,
+      "start": 256.56,
+      "end": 260.56,
+      "text": " I said, get the gun.",
+      "tokens": [
+        50364,
+        286,
+        848,
+        11,
+        483,
+        264,
+        3874,
+        13,
+        50564
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.8684202340932993,
+      "compression_ratio": 1.7647058823529411,
+      "no_speech_prob": 0.23163960874080658
+    },
+    {
+      "id": 51,
+      "seek": 25656,
+      "start": 260.56,
+      "end": 262.56,
+      "text": " I said get the gun.",
+      "tokens": [
+        50564,
+        286,
+        848,
+        483,
+        264,
+        3874,
+        13,
+        50664
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.8684202340932993,
+      "compression_ratio": 1.7647058823529411,
+      "no_speech_prob": 0.23163960874080658
+    },
+    {
+      "id": 52,
+      "seek": 25656,
+      "start": 262.56,
+      "end": 266.56,
+      "text": " I said get the gun.",
+      "tokens": [
+        50664,
+        286,
+        848,
+        483,
+        264,
+        3874,
+        13,
+        50864
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.8684202340932993,
+      "compression_ratio": 1.7647058823529411,
+      "no_speech_prob": 0.23163960874080658
+    },
+    {
+      "id": 53,
+      "seek": 28656,
+      "start": 286.56,
+      "end": 288.56,
+      "text": " Oh my gosh!",
+      "tokens": [
+        50364,
+        876,
+        452,
+        6502,
+        0,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.5234136581420898,
+      "compression_ratio": 1.1566265060240963,
+      "no_speech_prob": 0.23405197262763977
+    },
+    {
+      "id": 54,
+      "seek": 28656,
+      "start": 288.56,
+      "end": 292.56,
+      "text": " I have to get a gun.",
+      "tokens": [
+        50464,
+        286,
+        362,
+        281,
+        483,
+        257,
+        3874,
+        13,
+        50664
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.5234136581420898,
+      "compression_ratio": 1.1566265060240963,
+      "no_speech_prob": 0.23405197262763977
+    },
+    {
+      "id": 55,
+      "seek": 28656,
+      "start": 308.56,
+      "end": 310.56,
+      "text": " Why are you noise?",
+      "tokens": [
+        51464,
+        1545,
+        366,
+        291,
+        5658,
+        30,
+        51564
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.5234136581420898,
+      "compression_ratio": 1.1566265060240963,
+      "no_speech_prob": 0.23405197262763977
+    },
+    {
+      "id": 56,
+      "seek": 28656,
+      "start": 310.56,
+      "end": 312.56,
+      "text": " Why are you not giving?",
+      "tokens": [
+        51564,
+        1545,
+        366,
+        291,
+        406,
+        2902,
+        30,
+        51664
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.5234136581420898,
+      "compression_ratio": 1.1566265060240963,
+      "no_speech_prob": 0.23405197262763977
+    },
+    {
+      "id": 57,
+      "seek": 28656,
+      "start": 312.56,
+      "end": 314.56,
+      "text": " You want to give it?",
+      "tokens": [
+        51664,
+        509,
+        528,
+        281,
+        976,
+        309,
+        30,
+        51764
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.5234136581420898,
+      "compression_ratio": 1.1566265060240963,
+      "no_speech_prob": 0.23405197262763977
+    },
+    {
+      "id": 58,
+      "seek": 31456,
+      "start": 314.56,
+      "end": 315.2,
+      "text": " feels like an Amateur",
+      "tokens": [
+        50364,
+        3417,
+        411,
+        364,
+        2012,
+        15540,
+        50396
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03970947265625,
+      "compression_ratio": 0.8983050847457628,
+      "no_speech_prob": 0.5431862473487854
+    },
+    {
+      "id": 59,
+      "seek": 31456,
+      "start": 316.86,
+      "end": 318.86,
+      "text": " wearing a black clothing",
+      "tokens": [
+        50479,
+        4769,
+        257,
+        2211,
+        11502,
+        50579
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03970947265625,
+      "compression_ratio": 0.8983050847457628,
+      "no_speech_prob": 0.5431862473487854
+    },
+    {
+      "id": 60,
+      "seek": 31456,
+      "start": 331.46,
+      "end": 332.58,
+      "text": " up",
+      "tokens": [
+        51209,
+        493,
+        51265
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03970947265625,
+      "compression_ratio": 0.8983050847457628,
+      "no_speech_prob": 0.5431862473487854
+    },
+    {
+      "id": 61,
+      "seek": 31456,
+      "start": 339.38,
+      "end": 340.68,
+      "text": " hot",
+      "tokens": [
+        51605,
+        2368,
+        51670
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03970947265625,
+      "compression_ratio": 0.8983050847457628,
+      "no_speech_prob": 0.5431862473487854
+    },
+    {
+      "id": 62,
+      "seek": 34456,
+      "start": 344.56,
+      "end": 353.44,
+      "text": " ? accident ?",
+      "tokens": [
+        50364,
+        2506,
+        6398,
+        2506,
+        50808
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.090133243136936,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.4459993839263916
+    },
+    {
+      "id": 63,
+      "seek": 34456,
+      "start": 368.94,
+      "end": 372.94,
+      "text": "screaming",
+      "tokens": [
+        51583,
+        23698,
+        51783
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.090133243136936,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.4459993839263916
+    },
+    {
+      "id": 64,
+      "seek": 37456,
+      "start": 374.56,
+      "end": 376.08,
+      "text": " food",
+      "tokens": [
+        50364,
+        1755,
+        50440
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 65,
+      "seek": 37456,
+      "start": 383.24,
+      "end": 385.8,
+      "text": " my brother got a little ailment",
+      "tokens": [
+        50798,
+        452,
+        3708,
+        658,
+        257,
+        707,
+        48283,
+        518,
+        50926
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 66,
+      "seek": 37456,
+      "start": 386.06,
+      "end": 387.02,
+      "text": " not funny",
+      "tokens": [
+        50939,
+        406,
+        4074,
+        50987
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 67,
+      "seek": 37456,
+      "start": 388.22,
+      "end": 389.14,
+      "text": " be careful",
+      "tokens": [
+        51047,
+        312,
+        5026,
+        51093
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 68,
+      "seek": 37456,
+      "start": 395.46,
+      "end": 398.32,
+      "text": " Cristian Tar- patient",
+      "tokens": [
+        51409,
+        23199,
+        952,
+        10537,
+        12,
+        4537,
+        51552
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 69,
+      "seek": 37456,
+      "start": 399.86,
+      "end": 401.02,
+      "text": " Take his water",
+      "tokens": [
+        51629,
+        3664,
+        702,
+        1281,
+        51687
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 70,
+      "seek": 37456,
+      "start": 402.66,
+      "end": 403.74,
+      "text": " earlier",
+      "tokens": [
+        51769,
+        3071,
+        51823
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.088543362087673,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.5706297159194946
+    },
+    {
+      "id": 71,
+      "seek": 40456,
+      "start": 404.56,
+      "end": 406.56,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9982011658804757,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.22874322533607483
+    },
+    {
+      "id": 72,
+      "seek": 40456,
+      "start": 412.76,
+      "end": 414.76,
+      "text": " What's again home sweet",
+      "tokens": [
+        50774,
+        708,
+        311,
+        797,
+        1280,
+        3844,
+        50874
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9982011658804757,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.22874322533607483
+    },
+    {
+      "id": 73,
+      "seek": 40456,
+      "start": 427.36,
+      "end": 429.36,
+      "text": " Yeah",
+      "tokens": [
+        51504,
+        865,
+        51604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9982011658804757,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.22874322533607483
+    },
+    {
+      "id": 74,
+      "seek": 43456,
+      "start": 434.56,
+      "end": 436.56,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9858269691467285,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.046355921775102615
+    },
+    {
+      "id": 75,
+      "seek": 43456,
+      "start": 461.24,
+      "end": 463.24,
+      "text": " This one",
+      "tokens": [
+        51698,
+        639,
+        472,
+        51798
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9858269691467285,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.046355921775102615
+    },
+    {
+      "id": 76,
+      "seek": 46456,
+      "start": 464.56,
+      "end": 466.56,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7891700863838196,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.1472945362329483
+    },
+    {
+      "id": 77,
+      "seek": 49456,
+      "start": 494.56,
+      "end": 496.56,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7000030279159546,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.36205193400382996
+    },
+    {
+      "id": 78,
+      "seek": 52456,
+      "start": 524.78,
+      "end": 526.78,
+      "text": " Oh",
+      "tokens": [
+        50375,
+        876,
+        50475
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9128684997558594,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.16501334309577942
+    },
+    {
+      "id": 79,
+      "seek": 52456,
+      "start": 534.5,
+      "end": 537.0,
+      "text": " I'm good",
+      "tokens": [
+        50861,
+        286,
+        478,
+        665,
+        50986
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9128684997558594,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.16501334309577942
+    },
+    {
+      "id": 80,
+      "seek": 52456,
+      "start": 538.0,
+      "end": 540.0,
+      "text": " I get pizza",
+      "tokens": [
+        51036,
+        286,
+        483,
+        8298,
+        51136
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9128684997558594,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.16501334309577942
+    },
+    {
+      "id": 81,
+      "seek": 52456,
+      "start": 542.68,
+      "end": 544.68,
+      "text": " Nice guy",
+      "tokens": [
+        51270,
+        5490,
+        2146,
+        51370
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9128684997558594,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.16501334309577942
+    },
+    {
+      "id": 82,
+      "seek": 52456,
+      "start": 544.68,
+      "end": 546.68,
+      "text": " mission",
+      "tokens": [
+        51370,
+        4447,
+        51470
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9128684997558594,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.16501334309577942
+    },
+    {
+      "id": 83,
+      "seek": 54668,
+      "start": 546.68,
+      "end": 548.52,
+      "text": " Past!",
+      "tokens": [
+        50364,
+        18408,
+        0,
+        50456
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.2168308893839517,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.3455289900302887
+    },
+    {
+      "id": 84,
+      "seek": 54852,
+      "start": 548.52,
+      "end": 551.4399999999999,
+      "text": " you",
+      "tokens": [
+        50410,
+        291,
+        50510
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.670457601547241,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.5036033391952515
+    },
+    {
+      "id": 85,
+      "seek": 57852,
+      "start": 578.52,
+      "end": 580.52,
+      "text": " Three, two, one.",
+      "tokens": [
+        50364,
+        6244,
+        11,
+        732,
+        11,
+        472,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6099674789993851,
+      "compression_ratio": 0.9726027397260274,
+      "no_speech_prob": 0.1747073233127594
+    },
+    {
+      "id": 86,
+      "seek": 57852,
+      "start": 583.52,
+      "end": 586.52,
+      "text": " Y'all ain't ever got to get my eyebrows done. No more.",
+      "tokens": [
+        50614,
+        398,
+        6,
+        336,
+        7862,
+        380,
+        1562,
+        658,
+        281,
+        483,
+        452,
+        19916,
+        1096,
+        13,
+        883,
+        544,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6099674789993851,
+      "compression_ratio": 0.9726027397260274,
+      "no_speech_prob": 0.1747073233127594
+    },
+    {
+      "id": 87,
+      "seek": 60852,
+      "start": 608.52,
+      "end": 610.52,
+      "text": " Stop, stop, stop.",
+      "tokens": [
+        50364,
+        5535,
+        11,
+        1590,
+        11,
+        1590,
+        13,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9892400658648947,
+      "compression_ratio": 1.294871794871795,
+      "no_speech_prob": 0.42549464106559753
+    },
+    {
+      "id": 88,
+      "seek": 60852,
+      "start": 615.52,
+      "end": 617.52,
+      "text": " Hey, hey, hey, hey, hey.",
+      "tokens": [
+        50714,
+        1911,
+        11,
+        4177,
+        11,
+        4177,
+        11,
+        4177,
+        11,
+        4177,
+        13,
+        50814
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9892400658648947,
+      "compression_ratio": 1.294871794871795,
+      "no_speech_prob": 0.42549464106559753
+    },
+    {
+      "id": 89,
+      "seek": 60852,
+      "start": 617.52,
+      "end": 619.52,
+      "text": " Drop everything on your parties.",
+      "tokens": [
+        50814,
+        17675,
+        1203,
+        322,
+        428,
+        8265,
+        13,
+        50914
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9892400658648947,
+      "compression_ratio": 1.294871794871795,
+      "no_speech_prob": 0.42549464106559753
+    },
+    {
+      "id": 90,
+      "seek": 60852,
+      "start": 619.52,
+      "end": 620.52,
+      "text": " NICE!",
+      "tokens": [
+        50914,
+        426,
+        13663,
+        0,
+        50964
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9892400658648947,
+      "compression_ratio": 1.294871794871795,
+      "no_speech_prob": 0.42549464106559753
+    },
+    {
+      "id": 91,
+      "seek": 60852,
+      "start": 622.52,
+      "end": 623.52,
+      "text": " I did it.",
+      "tokens": [
+        51064,
+        286,
+        630,
+        309,
+        13,
+        51114
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9892400658648947,
+      "compression_ratio": 1.294871794871795,
+      "no_speech_prob": 0.42549464106559753
+    },
+    {
+      "id": 92,
+      "seek": 60852,
+      "start": 627.52,
+      "end": 628.52,
+      "text": " I did it.",
+      "tokens": [
+        51314,
+        286,
+        630,
+        309,
+        13,
+        51364
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9892400658648947,
+      "compression_ratio": 1.294871794871795,
+      "no_speech_prob": 0.42549464106559753
+    },
+    {
+      "id": 93,
+      "seek": 63852,
+      "start": 638.52,
+      "end": 639.56,
+      "text": " give me your glasses",
+      "tokens": [
+        50364,
+        976,
+        385,
+        428,
+        10812,
+        50416
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.731874465942383,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.547272264957428
+    },
+    {
+      "id": 94,
+      "seek": 63852,
+      "start": 645.72,
+      "end": 646.1999999999999,
+      "text": " here I go",
+      "tokens": [
+        50724,
+        510,
+        286,
+        352,
+        50748
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.731874465942383,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.547272264957428
+    },
+    {
+      "id": 95,
+      "seek": 63852,
+      "start": 649.34,
+      "end": 650.4399999999999,
+      "text": " do one more",
+      "tokens": [
+        50905,
+        360,
+        472,
+        544,
+        50960
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.731874465942383,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.547272264957428
+    },
+    {
+      "id": 96,
+      "seek": 63852,
+      "start": 653.68,
+      "end": 655.04,
+      "text": " you i'm having some cheese",
+      "tokens": [
+        51122,
+        291,
+        741,
+        478,
+        1419,
+        512,
+        5399,
+        51190
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.731874465942383,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.547272264957428
+    },
+    {
+      "id": 97,
+      "seek": 63852,
+      "start": 658.04,
+      "end": 659.24,
+      "text": " how did you guys do that",
+      "tokens": [
+        51340,
+        577,
+        630,
+        291,
+        1074,
+        360,
+        300,
+        51400
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.731874465942383,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.547272264957428
+    },
+    {
+      "id": 98,
+      "seek": 63852,
+      "start": 661.66,
+      "end": 662.56,
+      "text": " what is this?",
+      "tokens": [
+        51521,
+        437,
+        307,
+        341,
+        30,
+        51566
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.731874465942383,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.547272264957428
+    },
+    {
+      "id": 99,
+      "seek": 66256,
+      "start": 662.56,
+      "end": 664.56,
+      "text": " now go ahead and do my trip",
+      "tokens": [
+        50364,
+        586,
+        352,
+        2286,
+        293,
+        360,
+        452,
+        4931,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8310533251081194,
+      "compression_ratio": 1.1044776119402986,
+      "no_speech_prob": 0.37935611605644226
+    },
+    {
+      "id": 100,
+      "seek": 66256,
+      "start": 670.42,
+      "end": 671.5799999999999,
+      "text": " can i come?",
+      "tokens": [
+        50757,
+        393,
+        741,
+        808,
+        30,
+        50815
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8310533251081194,
+      "compression_ratio": 1.1044776119402986,
+      "no_speech_prob": 0.37935611605644226
+    },
+    {
+      "id": 101,
+      "seek": 66256,
+      "start": 682.14,
+      "end": 684.14,
+      "text": " if you wanna mess it up again",
+      "tokens": [
+        51343,
+        498,
+        291,
+        1948,
+        2082,
+        309,
+        493,
+        797,
+        51443
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8310533251081194,
+      "compression_ratio": 1.1044776119402986,
+      "no_speech_prob": 0.37935611605644226
+    },
+    {
+      "id": 102,
+      "seek": 66256,
+      "start": 690.52,
+      "end": 690.6999999999999,
+      "text": " then",
+      "tokens": [
+        51762,
+        550,
+        51771
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.8310533251081194,
+      "compression_ratio": 1.1044776119402986,
+      "no_speech_prob": 0.37935611605644226
+    },
+    {
+      "id": 103,
+      "seek": 69256,
+      "start": 692.56,
+      "end": 696.0799999999999,
+      "text": " there is no gas inside",
+      "tokens": [
+        50364,
+        456,
+        307,
+        572,
+        4211,
+        1854,
+        50540
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.123258272806804,
+      "compression_ratio": 0.8690476190476191,
+      "no_speech_prob": 0.36135849356651306
+    },
+    {
+      "id": 104,
+      "seek": 69256,
+      "start": 705.2399999999999,
+      "end": 711.5799999999999,
+      "text": " what would you do if I جعدень בכه Macrata",
+      "tokens": [
+        50998,
+        437,
+        576,
+        291,
+        360,
+        498,
+        286,
+        10874,
+        22488,
+        3888,
+        39150,
+        3224,
+        5707,
+        81,
+        3274,
+        51315
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.123258272806804,
+      "compression_ratio": 0.8690476190476191,
+      "no_speech_prob": 0.36135849356651306
+    },
+    {
+      "id": 105,
+      "seek": 72256,
+      "start": 722.56,
+      "end": 724.1199999999999,
+      "text": " WILL",
+      "tokens": [
+        50364,
+        18194,
+        50442
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.704752240862165,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.5097736120223999
+    },
+    {
+      "id": 106,
+      "seek": 72256,
+      "start": 744.8399999999999,
+      "end": 747.26,
+      "text": " MY",
+      "tokens": [
+        51478,
+        16322,
+        51599
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.704752240862165,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.5097736120223999
+    },
+    {
+      "id": 107,
+      "seek": 75256,
+      "start": 752.56,
+      "end": 754.56,
+      "text": " you",
+      "tokens": [
+        50364,
+        291,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.7066258192062378,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.25034767389297485
+    },
+    {
+      "id": 108,
+      "seek": 78256,
+      "start": 782.56,
+      "end": 785.28,
+      "text": " Hey guys I'm in New York City just hanging out",
+      "tokens": [
+        50364,
+        1911,
+        1074,
+        286,
+        478,
+        294,
+        1873,
+        3609,
+        4392,
+        445,
+        8345,
+        484,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9863585472106934,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.09413062036037445
+    },
+    {
+      "id": 109,
+      "seek": 78256,
+      "start": 785.28,
+      "end": 787.28,
+      "text": " Oh",
+      "tokens": [
+        50500,
+        876,
+        50600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9863585472106934,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.09413062036037445
+    },
+    {
+      "id": 110,
+      "seek": 78256,
+      "start": 798.56,
+      "end": 800.56,
+      "text": " Hi",
+      "tokens": [
+        51164,
+        2421,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9863585472106934,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.09413062036037445
+    },
+    {
+      "id": 111,
+      "seek": 81256,
+      "start": 812.56,
+      "end": 814.56,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.894859487360174,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.0772084966301918
+    },
+    {
+      "id": 112,
+      "seek": 81256,
+      "start": 837.4399999999999,
+      "end": 839.4399999999999,
+      "text": " Once again home sweet",
+      "tokens": [
+        51608,
+        3443,
+        797,
+        1280,
+        3844,
+        51708
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.894859487360174,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.0772084966301918
+    },
+    {
+      "id": 113,
+      "seek": 83944,
+      "start": 840.0,
+      "end": 842.0,
+      "text": " Oh",
+      "tokens": [
+        50392,
+        876,
+        50492
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.930057798113142,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.09408073872327805
+    },
+    {
+      "id": 114,
+      "seek": 83944,
+      "start": 865.6800000000001,
+      "end": 868.48,
+      "text": " Okay",
+      "tokens": [
+        51676,
+        1033,
+        51816
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.930057798113142,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.09408073872327805
+    },
+    {
+      "id": 115,
+      "seek": 86944,
+      "start": 869.44,
+      "end": 875.22,
+      "text": " Hi guys, the rainy season ended!",
+      "tokens": [
+        50364,
+        2421,
+        1074,
+        11,
+        264,
+        27181,
+        3196,
+        4590,
+        0,
+        50653
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.426314070418075,
+      "compression_ratio": 1.018348623853211,
+      "no_speech_prob": 0.21716168522834778
+    },
+    {
+      "id": 116,
+      "seek": 86944,
+      "start": 878.2,
+      "end": 882.6800000000001,
+      "text": " Them actors and crew English",
+      "tokens": [
+        50802,
+        37354,
+        10037,
+        293,
+        7260,
+        3669,
+        51026
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.426314070418075,
+      "compression_ratio": 1.018348623853211,
+      "no_speech_prob": 0.21716168522834778
+    },
+    {
+      "id": 117,
+      "seek": 86944,
+      "start": 882.6800000000001,
+      "end": 884.24,
+      "text": "軍!",
+      "tokens": [
+        51026,
+        30130,
+        0,
+        51104
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.426314070418075,
+      "compression_ratio": 1.018348623853211,
+      "no_speech_prob": 0.21716168522834778
+    },
+    {
+      "id": 118,
+      "seek": 86944,
+      "start": 884.24,
+      "end": 887.6600000000001,
+      "text": " analyzing how to cruise",
+      "tokens": [
+        51104,
+        23663,
+        577,
+        281,
+        17754,
+        51275
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.426314070418075,
+      "compression_ratio": 1.018348623853211,
+      "no_speech_prob": 0.21716168522834778
+    },
+    {
+      "id": 119,
+      "seek": 86944,
+      "start": 894.34,
+      "end": 896.3000000000001,
+      "text": " livro",
+      "tokens": [
+        51609,
+        50273,
+        33545,
+        51707
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.426314070418075,
+      "compression_ratio": 1.018348623853211,
+      "no_speech_prob": 0.21716168522834778
+    },
+    {
+      "id": 120,
+      "seek": 86944,
+      "start": 896.5400000000001,
+      "end": 898.5400000000001,
+      "text": " Get ready",
+      "tokens": [
+        51719,
+        3240,
+        1919,
+        51819
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.426314070418075,
+      "compression_ratio": 1.018348623853211,
+      "no_speech_prob": 0.21716168522834778
+    },
+    {
+      "id": 121,
+      "seek": 89854,
+      "start": 898.54,
+      "end": 899.54,
+      "text": " f",
+      "tokens": [
+        50364,
+        283,
+        50414
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 122,
+      "seek": 89854,
+      "start": 899.54,
+      "end": 900.54,
+      "text": " f",
+      "tokens": [
+        50414,
+        283,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 123,
+      "seek": 89854,
+      "start": 900.54,
+      "end": 901.54,
+      "text": " f",
+      "tokens": [
+        50464,
+        283,
+        50514
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 124,
+      "seek": 89854,
+      "start": 901.54,
+      "end": 902.54,
+      "text": " f",
+      "tokens": [
+        50514,
+        283,
+        50564
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 125,
+      "seek": 89854,
+      "start": 902.54,
+      "end": 904.54,
+      "text": " f",
+      "tokens": [
+        50564,
+        283,
+        50664
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 126,
+      "seek": 89854,
+      "start": 904.54,
+      "end": 905.54,
+      "text": " f",
+      "tokens": [
+        50664,
+        283,
+        50714
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 127,
+      "seek": 89854,
+      "start": 905.54,
+      "end": 907.54,
+      "text": " f",
+      "tokens": [
+        50714,
+        283,
+        50814
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 128,
+      "seek": 89854,
+      "start": 907.54,
+      "end": 909.54,
+      "text": " f",
+      "tokens": [
+        50814,
+        283,
+        50914
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 129,
+      "seek": 89854,
+      "start": 909.54,
+      "end": 910.54,
+      "text": " f",
+      "tokens": [
+        50914,
+        283,
+        50964
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 130,
+      "seek": 89854,
+      "start": 910.54,
+      "end": 912.54,
+      "text": " f",
+      "tokens": [
+        50964,
+        283,
+        51064
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 131,
+      "seek": 89854,
+      "start": 912.54,
+      "end": 913.54,
+      "text": " f",
+      "tokens": [
+        51064,
+        283,
+        51114
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 132,
+      "seek": 89854,
+      "start": 915.54,
+      "end": 917.54,
+      "text": " Many thanks to official, this is for you",
+      "tokens": [
+        51214,
+        5126,
+        3231,
+        281,
+        4783,
+        11,
+        341,
+        307,
+        337,
+        291,
+        51314
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 133,
+      "seek": 89854,
+      "start": 918.54,
+      "end": 920.54,
+      "text": " I will be very careful",
+      "tokens": [
+        51364,
+        286,
+        486,
+        312,
+        588,
+        5026,
+        51464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 134,
+      "seek": 89854,
+      "start": 922.54,
+      "end": 924.54,
+      "text": " AHHHHHHHH",
+      "tokens": [
+        51564,
+        316,
+        18454,
+        18454,
+        51664
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9713995045629041,
+      "compression_ratio": 1.2337662337662338,
+      "no_speech_prob": 0.17283543944358826
+    },
+    {
+      "id": 135,
+      "seek": 92454,
+      "start": 924.54,
+      "end": 929.4399999999999,
+      "text": " f***.",
+      "tokens": [
+        50364,
+        283,
+        13684,
+        13,
+        50609
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.152493512188947,
+      "compression_ratio": 0.8852459016393442,
+      "no_speech_prob": 0.31709355115890503
+    },
+    {
+      "id": 136,
+      "seek": 92454,
+      "start": 936.1999999999999,
+      "end": 939.3199999999999,
+      "text": "就是...",
+      "tokens": [
+        50947,
+        5620,
+        485,
+        51103
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.152493512188947,
+      "compression_ratio": 0.8852459016393442,
+      "no_speech_prob": 0.31709355115890503
+    },
+    {
+      "id": 137,
+      "seek": 92454,
+      "start": 939.78,
+      "end": 942.62,
+      "text": " The room here?",
+      "tokens": [
+        51126,
+        440,
+        1808,
+        510,
+        30,
+        51268
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.152493512188947,
+      "compression_ratio": 0.8852459016393442,
+      "no_speech_prob": 0.31709355115890503
+    },
+    {
+      "id": 138,
+      "seek": 92454,
+      "start": 948.16,
+      "end": 949.9399999999999,
+      "text": " What a fuck, is this ma-",
+      "tokens": [
+        51545,
+        708,
+        257,
+        3275,
+        11,
+        307,
+        341,
+        463,
+        12,
+        51634
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.152493512188947,
+      "compression_ratio": 0.8852459016393442,
+      "no_speech_prob": 0.31709355115890503
+    },
+    {
+      "id": 139,
+      "seek": 94994,
+      "start": 949.94,
+      "end": 950.44,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6746089458465576,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.3400017023086548
+    },
+    {
+      "id": 140,
+      "seek": 97994,
+      "start": 979.94,
+      "end": 986.1,
+      "text": " Once again home sweet",
+      "tokens": [
+        50364,
+        3443,
+        797,
+        1280,
+        3844,
+        50672
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9704531260899135,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.2958342730998993
+    },
+    {
+      "id": 141,
+      "seek": 100994,
+      "start": 1009.94,
+      "end": 1011.94,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9488292932510376,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.21320901811122894
+    },
+    {
+      "id": 142,
+      "seek": 103994,
+      "start": 1039.94,
+      "end": 1042.6200000000001,
+      "text": " What",
+      "tokens": [
+        50398,
+        708,
+        50498
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.71724534034729,
+      "compression_ratio": 0.3333333333333333,
+      "no_speech_prob": 0.4242352545261383
+    },
+    {
+      "id": 143,
+      "seek": 106994,
+      "start": 1069.94,
+      "end": 1075.54,
+      "text": " a",
+      "tokens": [
+        50364,
+        257,
+        50644
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03285386827257,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.28261035680770874
+    },
+    {
+      "id": 144,
+      "seek": 106994,
+      "start": 1084.66,
+      "end": 1086.48,
+      "text": " bus",
+      "tokens": [
+        51100,
+        1255,
+        51191
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03285386827257,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.28261035680770874
+    },
+    {
+      "id": 145,
+      "seek": 106994,
+      "start": 1086.9,
+      "end": 1091.3600000000001,
+      "text": " Bah",
+      "tokens": [
+        51212,
+        14782,
+        51435
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03285386827257,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.28261035680770874
+    },
+    {
+      "id": 146,
+      "seek": 106994,
+      "start": 1091.3600000000001,
+      "end": 1095.76,
+      "text": " irritable",
+      "tokens": [
+        51435,
+        16029,
+        712,
+        51655
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03285386827257,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.28261035680770874
+    },
+    {
+      "id": 147,
+      "seek": 106994,
+      "start": 1095.76,
+      "end": 1098.48,
+      "text": " again",
+      "tokens": [
+        51655,
+        797,
+        51791
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.03285386827257,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.28261035680770874
+    },
+    {
+      "id": 148,
+      "seek": 109848,
+      "start": 1098.48,
+      "end": 1102.2,
+      "text": " Haha boe boe boe",
+      "tokens": [
+        50364,
+        19131,
+        748,
+        68,
+        748,
+        68,
+        748,
+        68,
+        50550
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    },
+    {
+      "id": 149,
+      "seek": 109848,
+      "start": 1104.2,
+      "end": 1107.28,
+      "text": " Show me your face",
+      "tokens": [
+        50650,
+        6895,
+        385,
+        428,
+        1851,
+        50804
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    },
+    {
+      "id": 150,
+      "seek": 109848,
+      "start": 1110.28,
+      "end": 1111.48,
+      "text": " Hi Guys",
+      "tokens": [
+        50954,
+        2421,
+        7855,
+        51014
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    },
+    {
+      "id": 151,
+      "seek": 109848,
+      "start": 1111.48,
+      "end": 1112.1200000000001,
+      "text": " Brenda",
+      "tokens": [
+        51014,
+        39610,
+        51046
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    },
+    {
+      "id": 152,
+      "seek": 109848,
+      "start": 1112.68,
+      "end": 1114.3600000000001,
+      "text": " ya Bald",
+      "tokens": [
+        51074,
+        2478,
+        27306,
+        51158
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    },
+    {
+      "id": 153,
+      "seek": 109848,
+      "start": 1114.3600000000001,
+      "end": 1114.52,
+      "text": " Big",
+      "tokens": [
+        51158,
+        5429,
+        51166
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    },
+    {
+      "id": 154,
+      "seek": 109848,
+      "start": 1115.44,
+      "end": 1116.4,
+      "text": "cent kardeş",
+      "tokens": [
+        51212,
+        2207,
+        24073,
+        51260
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.415575735909599,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.25171980261802673
+    }
+  ],
+  "language": "en",
+  "source": "whisper",
+  "cached_at": "2024-12-15T22:35:00.853446"
+}

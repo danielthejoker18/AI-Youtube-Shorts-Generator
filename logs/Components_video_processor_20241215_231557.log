@@ -1,0 +1,3 @@
+2024-12-15 23:15:57 | INFO     | Components.video_processor:41 | Inicializando processador de vídeo para: downloads\6phpGRbSWaQ.mp4
+2024-12-15 23:15:57 | INFO     | Components.video_processor:53 | Usando device: cuda
+2024-12-15 23:15:57 | INFO     | Components.video_processor:62 | Processador de vídeo inicializado com sucesso

@@ -1,0 +1,177 @@
+{
+  "title": "TOY STORY IN BRAWL STARS!?",
+  "author": "Brawl Stars",
+  "length": 499,
+  "views": 14764116,
+  "cached_at": "2024-12-15T14:04:49.783336",
+  "streams": [
+    {
+      "itag": 18,
+      "resolution": "360p",
+      "filesize": 45468193,
+      "is_progressive": true
+    },
+    {
+      "itag": 313,
+      "resolution": "2160p",
+      "filesize": 1018447290,
+      "is_progressive": false
+    },
+    {
+      "itag": 401,
+      "resolution": "2160p",
+      "filesize": 692091854,
+      "is_progressive": false
+    },
+    {
+      "itag": 271,
+      "resolution": "1440p",
+      "filesize": 454198846,
+      "is_progressive": false
+    },
+    {
+      "itag": 400,
+      "resolution": "1440p",
+      "filesize": 354038204,
+      "is_progressive": false
+    },
+    {
+      "itag": 137,
+      "resolution": "1080p",
+      "filesize": 212751771,
+      "is_progressive": false
+    },
+    {
+      "itag": 248,
+      "resolution": "1080p",
+      "filesize": 106392644,
+      "is_progressive": false
+    },
+    {
+      "itag": 399,
+      "resolution": "1080p",
+      "filesize": 117481894,
+      "is_progressive": false
+    },
+    {
+      "itag": 136,
+      "resolution": "720p",
+      "filesize": 75272141,
+      "is_progressive": false
+    },
+    {
+      "itag": 247,
+      "resolution": "720p",
+      "filesize": 73026748,
+      "is_progressive": false
+    },
+    {
+      "itag": 398,
+      "resolution": "720p",
+      "filesize": 60811349,
+      "is_progressive": false
+    },
+    {
+      "itag": 135,
+      "resolution": "480p",
+      "filesize": 49958523,
+      "is_progressive": false
+    },
+    {
+      "itag": 244,
+      "resolution": "480p",
+      "filesize": 33638245,
+      "is_progressive": false
+    },
+    {
+      "itag": 397,
+      "resolution": "480p",
+      "filesize": 34257751,
+      "is_progressive": false
+    },
+    {
+      "itag": 134,
+      "resolution": "360p",
+      "filesize": 31944217,
+      "is_progressive": false
+    },
+    {
+      "itag": 243,
+      "resolution": "360p",
+      "filesize": 24242564,
+      "is_progressive": false
+    },
+    {
+      "itag": 396,
+      "resolution": "360p",
+      "filesize": 20389556,
+      "is_progressive": false
+    },
+    {
+      "itag": 133,
+      "resolution": "240p",
+      "filesize": 14451796,
+      "is_progressive": false
+    },
+    {
+      "itag": 242,
+      "resolution": "240p",
+      "filesize": 10184777,
+      "is_progressive": false
+    },
+    {
+      "itag": 395,
+      "resolution": "240p",
+      "filesize": 10149776,
+      "is_progressive": false
+    },
+    {
+      "itag": 160,
+      "resolution": "144p",
+      "filesize": 6662530,
+      "is_progressive": false
+    },
+    {
+      "itag": 278,
+      "resolution": "144p",
+      "filesize": 4841107,
+      "is_progressive": false
+    },
+    {
+      "itag": 394,
+      "resolution": "144p",
+      "filesize": 4958329,
+      "is_progressive": false
+    },
+    {
+      "itag": 139,
+      "resolution": null,
+      "filesize": 3046788,
+      "is_progressive": false
+    },
+    {
+      "itag": 140,
+      "resolution": null,
+      "filesize": 8082669,
+      "is_progressive": false
+    },
+    {
+      "itag": 249,
+      "resolution": null,
+      "filesize": 3084412,
+      "is_progressive": false
+    },
+    {
+      "itag": 250,
+      "resolution": null,
+      "filesize": 3880783,
+      "is_progressive": false
+    },
+    {
+      "itag": 251,
+      "resolution": null,
+      "filesize": 7565101,
+      "is_progressive": false
+    }
+  ]
+}

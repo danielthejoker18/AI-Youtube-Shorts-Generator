@@ -1,0 +1,3 @@
+2024-12-15 23:15:57 | INFO     | Components.Transcription:55 | Extracting audio from video
+2024-12-15 23:15:57 | INFO     | Components.Transcription:72 | Transcribing audio
+2024-12-15 23:15:57 | INFO     | Components.Transcription:32 | Loading Whisper model: base
