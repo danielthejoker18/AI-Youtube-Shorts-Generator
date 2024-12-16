@@ -1,5 +1,5 @@
 """
-Detecção de idioma em texto e áudio.
+Language detection for text and audio.
 """
 
 from typing import Dict, Optional, List
@@ -15,58 +15,58 @@ from ..core.config import config
 from ..core.exceptions import LanguageError
 from ..media.media_utils import get_audio_features
 
-# Garante resultados consistentes
+# Ensure consistent results
 DetectorFactory.seed = 0
 
 logger = ComponentLogger(__name__)
 
 @dataclass
 class LanguageConfidence:
-    """Confiança da detecção de idioma."""
+    """Confidence of language detection."""
     
     language: str
     confidence: float
 
 class LanguageDetector:
     """
-    Detecta idioma em texto e áudio.
+    Detects language in text and audio.
     """
     
     def __init__(self):
-        """Inicializa o detector de idioma."""
+        """Initialize the language detector."""
         self.config = config.processing
         self._whisper_model = None
     
     @property
     def whisper_model(self):
-        """Carrega modelo Whisper sob demanda."""
+        """Load Whisper model on demand."""
         if self._whisper_model is None:
             try:
                 self._whisper_model = whisper.load_model("base")
             except Exception as e:
-                raise LanguageError(f"Erro ao carregar modelo Whisper: {e}")
+                raise LanguageError(f"Error loading Whisper model: {e}")
         return self._whisper_model
     
     def detect_text(self, text: str) -> LanguageConfidence:
         """
-        Detecta idioma em texto.
+        Detects language in text.
         
         Args:
-            text: Texto para análise
+            text: Text to analyze
             
         Returns:
-            LanguageConfidence com idioma detectado
+            LanguageConfidence with detected language
             
         Raises:
-            LanguageError: Se houver erro na detecção
+            LanguageError: If there is an error in detection
         """
         try:
-            # Detecta com confiança
+            # Detect with confidence
             langs = detect_langs(text)
             if not langs:
-                raise LanguageError("Não foi possível detectar idioma")
+                raise LanguageError("Unable to detect language")
                 
-            # Pega idioma mais provável
+            # Get most likely language
             best_lang = langs[0]
             return LanguageConfidence(
                 language=best_lang.lang,
@@ -74,27 +74,27 @@ class LanguageDetector:
             )
             
         except Exception as e:
-            raise LanguageError(f"Erro ao detectar idioma: {e}")
+            raise LanguageError(f"Error detecting language: {e}")
     
     def detect_text_multi(self, text: str, min_confidence: float = 0.1) -> List[LanguageConfidence]:
         """
-        Detecta múltiplos idiomas possíveis em texto.
+        Detects multiple possible languages in text.
         
         Args:
-            text: Texto para análise
-            min_confidence: Confiança mínima
+            text: Text to analyze
+            min_confidence: Minimum confidence
             
         Returns:
-            Lista de LanguageConfidence ordenada por confiança
+            List of LanguageConfidence ordered by confidence
             
         Raises:
-            LanguageError: Se houver erro na detecção
+            LanguageError: If there is an error in detection
         """
         try:
-            # Detecta todos os idiomas possíveis
+            # Detect all possible languages
             langs = detect_langs(text)
             
-            # Filtra e converte
+            # Filter and convert
             return [
                 LanguageConfidence(
                     language=lang.lang,
@@ -105,7 +105,7 @@ class LanguageDetector:
             ]
             
         except Exception as e:
-            raise LanguageError(f"Erro ao detectar idiomas: {e}")
+            raise LanguageError(f"Error detecting languages: {e}")
     
     def detect_audio(
         self,
@@ -113,20 +113,20 @@ class LanguageDetector:
         sample_duration: float = 30.0
     ) -> LanguageConfidence:
         """
-        Detecta idioma em áudio.
+        Detects language in audio.
         
         Args:
-            audio_path: Caminho do arquivo de áudio
-            sample_duration: Duração da amostra em segundos
+            audio_path: Path to audio file
+            sample_duration: Sample duration in seconds
             
         Returns:
-            LanguageConfidence com idioma detectado
+            LanguageConfidence with detected language
             
         Raises:
-            LanguageError: Se houver erro na detecção
+            LanguageError: If there is an error in detection
         """
         try:
-            # Carrega áudio
+            # Load audio
             result = self.whisper_model.detect_language(str(audio_path))[0]
             
             return LanguageConfidence(
@@ -135,36 +135,36 @@ class LanguageDetector:
             )
             
         except Exception as e:
-            raise LanguageError(f"Erro ao detectar idioma em áudio: {e}")
+            raise LanguageError(f"Error detecting language in audio: {e}")
     
     def is_supported(self, language: str) -> bool:
         """
-        Verifica se um idioma é suportado.
+        Checks if a language is supported.
         
         Args:
-            language: Código do idioma
+            language: Language code
             
         Returns:
-            True se suportado
+            True if supported
         """
         return language in self.config.SUPPORTED_LANGUAGES
     
     def validate_language(self, detected: LanguageConfidence) -> Optional[str]:
         """
-        Valida um idioma detectado.
+        Validates a detected language.
         
         Args:
-            detected: Resultado da detecção
+            detected: Detection result
             
         Returns:
-            Mensagem de erro ou None se válido
+            Error message or None if valid
         """
-        # Checa confiança mínima
+        # Check minimum confidence
         if detected.confidence < 0.5:
-            return f"Baixa confiança na detecção ({detected.confidence:.2f})"
+            return f"Low confidence in detection ({detected.confidence:.2f})"
         
-        # Checa se é suportado
+        # Check if supported
         if not self.is_supported(detected.language):
-            return f"Idioma não suportado: {detected.language}"
+            return f"Unsupported language: {detected.language}"
         
         return None

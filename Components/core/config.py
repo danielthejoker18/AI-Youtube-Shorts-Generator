@@ -1,111 +1,155 @@
 """
-Configurações centralizadas do sistema.
+Configuration management for the application.
 """
 
 import os
-from dataclasses import dataclass
-from typing import Dict, Any, Optional
 from pathlib import Path
-from dotenv import load_dotenv
+from typing import Optional, Dict, Any
+from dataclasses import dataclass, field
+import json
 
-# Carrega variáveis de ambiente
-load_dotenv()
+from .exceptions import ConfigError
+from .logger import ComponentLogger
 
-@dataclass
-class PathConfig:
-    """Configurações de caminhos do sistema"""
-    
-    # Diretórios principais
-    BASE_DIR: Path = Path(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-    VIDEOS_DIR: Path = BASE_DIR / "videos"
-    RESULTS_DIR: Path = BASE_DIR / "results"
-    CACHE_DIR: Path = BASE_DIR / "cache"
-    LOGS_DIR: Path = BASE_DIR / "logs"
-    
-    def __post_init__(self):
-        """Garante que os diretórios existem"""
-        for path in [self.VIDEOS_DIR, self.RESULTS_DIR, self.CACHE_DIR, self.LOGS_DIR]:
-            path.mkdir(parents=True, exist_ok=True)
+logger = ComponentLogger(__name__)
 
 @dataclass
-class APIConfig:
-    """Configurações de APIs externas"""
+class LLMConfig:
+    """LLM provider configuration."""
     
-    # OpenAI
-    OPENAI_API_KEY: Optional[str] = os.getenv("OPENAI_API_KEY")
-    OPENAI_MODEL: str = "gpt-3.5-turbo"
-    
-    # YouTube
-    YOUTUBE_API_KEY: Optional[str] = os.getenv("YOUTUBE_API_KEY")
-    
-    def validate(self) -> Dict[str, bool]:
-        """
-        Valida as configurações de API.
-        
-        Returns:
-            Dict com status de cada API
-        """
-        return {
-            "openai": bool(self.OPENAI_API_KEY),
-            "youtube": bool(self.YOUTUBE_API_KEY)
-        }
+    PROVIDER: str = "openai"
+    API_KEY: Optional[str] = None
+    MODEL: str = "gpt-4-turbo-preview"
+    MAX_TOKENS: int = 4000
+    TEMPERATURE: float = 0.7
 
 @dataclass
 class ProcessingConfig:
-    """Configurações de processamento"""
+    """Video and audio processing configuration."""
     
-    # Idiomas suportados
-    SUPPORTED_LANGUAGES: list[str] = ("en", "pt")
-    
-    # Limites
-    MAX_VIDEO_DURATION: int = 600  # 10 minutos
-    MIN_SHORT_DURATION: int = 15
-    MAX_SHORT_DURATION: int = 60
-    
-    # Qualidade
-    VIDEO_QUALITY: str = "1080p"
-    AUDIO_QUALITY: str = "192k"
-    
-    # Performance
-    USE_GPU: bool = False
-    BATCH_SIZE: int = 1
+    SUPPORTED_LANGUAGES: list = field(default_factory=lambda: ["en", "pt"])
+    MAX_VIDEO_LENGTH: int = 60
+    MIN_VIDEO_LENGTH: int = 15
+    TARGET_FPS: int = 30
+    TARGET_WIDTH: int = 1080
+    TARGET_HEIGHT: int = 1920
+    AUDIO_SAMPLE_RATE: int = 44100
 
 @dataclass
-class LogConfig:
-    """Configurações de logging"""
+class PathsConfig:
+    """File paths configuration."""
     
-    LEVEL: str = "INFO"
-    FORMAT: str = "%(asctime)s | %(levelname)-8s | %(message)s"
-    DATE_FORMAT: str = "%Y-%m-%d %H:%M:%S"
-    MAX_BYTES: int = 10 * 1024 * 1024  # 10MB
-    BACKUP_COUNT: int = 5
+    BASE_DIR: Path = Path(__file__).parent.parent.parent
+    CACHE_DIR: Path = BASE_DIR / "cache"
+    TEMP_DIR: Path = BASE_DIR / "temp"
+    OUTPUT_DIR: Path = BASE_DIR / "output"
+    LOGS_DIR: Path = BASE_DIR / "logs"
 
+@dataclass
 class Config:
-    """Configuração global do sistema"""
+    """Main application configuration."""
     
-    def __init__(self):
-        self.paths = PathConfig()
-        self.apis = APIConfig()
-        self.processing = ProcessingConfig()
-        self.logging = LogConfig()
-        
-    def validate(self) -> Dict[str, Any]:
-        """
-        Valida todas as configurações.
-        
-        Returns:
-            Dict com status de cada componente
-        """
-        status = {
-            "paths": all(p.exists() for p in [
-                self.paths.VIDEOS_DIR,
-                self.paths.RESULTS_DIR,
-                self.paths.CACHE_DIR,
-                self.paths.LOGS_DIR
-            ]),
-            "apis": self.apis.validate()
+    llm: LLMConfig = field(default_factory=LLMConfig)
+    processing: ProcessingConfig = field(default_factory=ProcessingConfig)
+    paths: PathsConfig = field(default_factory=PathsConfig)
+    
+    def __post_init__(self):
+        """Create required directories."""
+        for path in [
+            self.paths.CACHE_DIR,
+            self.paths.TEMP_DIR,
+            self.paths.OUTPUT_DIR,
+            self.paths.LOGS_DIR
+        ]:
+            path.mkdir(parents=True, exist_ok=True)
+    
+    def load_env(self):
+        """Load configuration from environment variables."""
+        try:
+            # LLM config
+            if provider := os.getenv("LLM_PROVIDER"):
+                self.llm.PROVIDER = provider
+            if api_key := os.getenv("OPENAI_API_KEY"):
+                self.llm.API_KEY = api_key
+            if model := os.getenv("LLM_MODEL"):
+                self.llm.MODEL = model
+            
+            # Processing config
+            if max_length := os.getenv("MAX_VIDEO_LENGTH"):
+                self.processing.MAX_VIDEO_LENGTH = int(max_length)
+            if min_length := os.getenv("MIN_VIDEO_LENGTH"):
+                self.processing.MIN_VIDEO_LENGTH = int(min_length)
+            
+            logger.info("Environment configuration loaded")
+            
+        except Exception as e:
+            raise ConfigError(f"Error loading environment configuration: {e}")
+    
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert configuration to dictionary."""
+        return {
+            "llm": {
+                "provider": self.llm.PROVIDER,
+                "model": self.llm.MODEL,
+                "max_tokens": self.llm.MAX_TOKENS,
+                "temperature": self.llm.TEMPERATURE
+            },
+            "processing": {
+                "supported_languages": self.processing.SUPPORTED_LANGUAGES,
+                "max_video_length": self.processing.MAX_VIDEO_LENGTH,
+                "min_video_length": self.processing.MIN_VIDEO_LENGTH,
+                "target_fps": self.processing.TARGET_FPS,
+                "target_width": self.processing.TARGET_WIDTH,
+                "target_height": self.processing.TARGET_HEIGHT,
+                "audio_sample_rate": self.processing.AUDIO_SAMPLE_RATE
+            },
+            "paths": {
+                "base_dir": str(self.paths.BASE_DIR),
+                "cache_dir": str(self.paths.CACHE_DIR),
+                "temp_dir": str(self.paths.TEMP_DIR),
+                "output_dir": str(self.paths.OUTPUT_DIR),
+                "logs_dir": str(self.paths.LOGS_DIR)
+            }
         }
-        return status
+    
+    def save(self, path: str):
+        """Save configuration to file."""
+        try:
+            with open(path, "w") as f:
+                json.dump(self.to_dict(), f, indent=4)
+            logger.info(f"Configuration saved to {path}")
+        except Exception as e:
+            raise ConfigError(f"Error saving configuration: {e}")
+    
+    @classmethod
+    def load(cls, path: str) -> "Config":
+        """Load configuration from file."""
+        try:
+            with open(path) as f:
+                data = json.load(f)
+            
+            config = cls()
+            
+            # LLM config
+            config.llm.PROVIDER = data["llm"]["provider"]
+            config.llm.MODEL = data["llm"]["model"]
+            config.llm.MAX_TOKENS = data["llm"]["max_tokens"]
+            config.llm.TEMPERATURE = data["llm"]["temperature"]
+            
+            # Processing config
+            config.processing.SUPPORTED_LANGUAGES = data["processing"]["supported_languages"]
+            config.processing.MAX_VIDEO_LENGTH = data["processing"]["max_video_length"]
+            config.processing.MIN_VIDEO_LENGTH = data["processing"]["min_video_length"]
+            config.processing.TARGET_FPS = data["processing"]["target_fps"]
+            config.processing.TARGET_WIDTH = data["processing"]["target_width"]
+            config.processing.TARGET_HEIGHT = data["processing"]["target_height"]
+            config.processing.AUDIO_SAMPLE_RATE = data["processing"]["audio_sample_rate"]
+            
+            logger.info(f"Configuration loaded from {path}")
+            return config
+            
+        except Exception as e:
+            raise ConfigError(f"Error loading configuration: {e}")
 
-# Instância global de configuração
+# Global configuration instance
 config = Config()

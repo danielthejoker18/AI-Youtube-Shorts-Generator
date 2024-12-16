@@ -1,113 +1,63 @@
 """
-Sistema centralizado de logging.
+Logging configuration for the application.
 """
 
 import logging
-import sys
-from logging.handlers import RotatingFileHandler
+import os
 from pathlib import Path
 from typing import Optional
-from datetime import datetime
-
-from .config import config
 
 class ComponentLogger:
-    """
-    Logger personalizado para componentes do sistema.
+    """Component-specific logger."""
     
-    Attributes:
-        name: Nome do componente
-        logger: Instância do logger
-    """
-    
-    def __init__(self, name: str):
+    def __init__(self, name: str, log_dir: Optional[str] = None):
         """
-        Inicializa um novo logger para um componente.
+        Initialize logger.
         
         Args:
-            name: Nome do componente
+            name: Logger name
+            log_dir: Optional log directory
         """
-        self.name = name
-        self.logger = self._setup_logger()
-    
-    def _setup_logger(self) -> logging.Logger:
-        """
-        Configura o logger com handlers para arquivo e console.
+        self.logger = logging.getLogger(name)
         
-        Returns:
-            Logger configurado
-        """
-        logger = logging.getLogger(self.name)
-        logger.setLevel(config.logging.LEVEL)
-        
-        # Evita duplicação de handlers
-        if logger.handlers:
-            return logger
-        
-        # Formato comum para todos os handlers
-        formatter = logging.Formatter(
-            fmt=config.logging.FORMAT,
-            datefmt=config.logging.DATE_FORMAT
-        )
-        
-        # Handler para arquivo
-        file_handler = self._create_file_handler(formatter)
-        if file_handler:
-            logger.addHandler(file_handler)
-        
-        # Handler para console
-        console_handler = logging.StreamHandler(sys.stdout)
-        console_handler.setFormatter(formatter)
-        logger.addHandler(console_handler)
-        
-        return logger
-    
-    def _create_file_handler(self, formatter: logging.Formatter) -> Optional[RotatingFileHandler]:
-        """
-        Cria um handler para arquivo com rotação.
-        
-        Args:
-            formatter: Formatador para as mensagens de log
+        if not self.logger.handlers:
+            self.logger.setLevel(logging.INFO)
             
-        Returns:
-            Handler configurado ou None se houver erro
-        """
-        try:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"{self.name}_{timestamp}.log"
-            filepath = Path(config.paths.LOGS_DIR) / filename
-            
-            handler = RotatingFileHandler(
-                filepath,
-                maxBytes=config.logging.MAX_BYTES,
-                backupCount=config.logging.BACKUP_COUNT
+            # Console handler
+            console = logging.StreamHandler()
+            console.setLevel(logging.INFO)
+            console.setFormatter(
+                logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
             )
-            handler.setFormatter(formatter)
-            return handler
-        except Exception as e:
-            print(f"Erro ao criar file handler: {e}")
-            return None
+            self.logger.addHandler(console)
+            
+            # File handler if directory specified
+            if log_dir:
+                os.makedirs(log_dir, exist_ok=True)
+                file_path = Path(log_dir) / f"{name}.log"
+                file_handler = logging.FileHandler(file_path)
+                file_handler.setLevel(logging.DEBUG)
+                file_handler.setFormatter(
+                    logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+                )
+                self.logger.addHandler(file_handler)
     
-    def debug(self, msg: str, *args, **kwargs):
+    def debug(self, msg: str):
         """Log debug message."""
-        self.logger.debug(msg, *args, **kwargs)
+        self.logger.debug(msg)
     
-    def info(self, msg: str, *args, **kwargs):
+    def info(self, msg: str):
         """Log info message."""
-        self.logger.info(msg, *args, **kwargs)
+        self.logger.info(msg)
     
-    def warning(self, msg: str, *args, **kwargs):
+    def warning(self, msg: str):
         """Log warning message."""
-        self.logger.warning(msg, *args, **kwargs)
+        self.logger.warning(msg)
     
-    def error(self, msg: str, *args, **kwargs):
+    def error(self, msg: str):
         """Log error message."""
-        self.logger.error(msg, *args, **kwargs)
+        self.logger.error(msg)
     
-    def critical(self, msg: str, *args, **kwargs):
+    def critical(self, msg: str):
         """Log critical message."""
-        self.logger.critical(msg, *args, **kwargs)
-    
-    def exception(self, msg: str, *args, **kwargs):
-        """Log exception message."""
-        self.logger.exception(msg, *args, **kwargs)
+        self.logger.critical(msg)

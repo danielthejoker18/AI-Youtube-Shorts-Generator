@@ -1,43 +1,35 @@
 """
-Exceções personalizadas do sistema.
+Custom exceptions for the application.
 """
 
-class ComponentError(Exception):
-    """Base exception for all component errors."""
+class BaseError(Exception):
+    """Base exception class."""
     pass
 
-class ConfigError(ComponentError):
-    """Erro de configuração."""
+class ConfigError(BaseError):
+    """Configuration error."""
     pass
 
-class APIError(ComponentError):
-    """Erro em chamadas de API."""
+class MediaError(BaseError):
+    """Media processing error."""
     pass
 
-class MediaError(ComponentError):
-    """Erro em processamento de mídia."""
+class LanguageError(BaseError):
+    """Language processing error."""
     pass
 
-class TranscriptionError(ComponentError):
-    """Erro durante a transcrição."""
+class LLMError(BaseError):
+    """LLM API error."""
     pass
 
-class LanguageError(ComponentError):
-    """Erro relacionado a processamento de linguagem."""
+class VideoError(BaseError):
+    """Video processing error."""
     pass
 
-class DownloadError(ComponentError):
-    """Erro durante o download."""
+class AudioError(BaseError):
+    """Audio processing error."""
     pass
 
-class ProcessingError(ComponentError):
-    """Erro durante o processamento de vídeo/áudio."""
-    pass
-
-class CacheError(ComponentError):
-    """Erro relacionado ao cache."""
-    pass
-
-class ValidationError(ComponentError):
-    """Erro de validação."""
+class ValidationError(BaseError):
+    """Data validation error."""
     pass
